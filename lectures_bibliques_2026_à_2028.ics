@@ -1,0 +1,3634 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270416
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 10\, 1-11
+UID:3f525edc-27c4-4f4d-b9fd-fd15eb7ca203@3f52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 26\, 1-32
+UID:19d8e727-57d8-4b33-b7dc-ec2072bc4a0f@19d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270316
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 11\, 20-31
+UID:9abd1d6b-50f0-4a23-bf68-8c7285fa4501@9abd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+SUMMARY:Lecture biblique du jour : Qoheleth(Qo) 7\, 1 à 8\, 1
+UID:d2341c7c-06ef-401f-914a-e7a853a59267@d234.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260124
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 17\, 1-27
+UID:88e8c9a7-3cc3-4131-b545-95b148e52181@88e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251211
+SUMMARY:Lecture biblique du jour : Isaïe 26\, 7-21
+UID:31ffa996-e6fa-4b07-b5b4-c40cb61afeea@31ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 10\, 1-33
+UID:a8e6c23f-fe7e-440a-bdf3-336fd567eb1a@a8e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251230
+SUMMARY:Lecture biblique du jour : Cantique des cantiques(Ct) 1\, 9 à 2\, 7
+UID:fe35b19c-874e-47fc-b049-c0ee1e130a23@fe35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270104
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 61\, 1-11
+UID:2293cd88-39dc-482b-9c72-6259f0953a8f@2293.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+SUMMARY:Lecture biblique du jour : Cantique des cantiques(Ct) 2\, 8 à 3\, 5
+UID:21077759-2655-4a1c-a463-c0156dfb83fc@2107.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+SUMMARY:Lecture biblique du jour : Exode(Ex) 19\, 1-19 \; 20\, 18-21
+UID:c35063c4-22ee-4b9a-baf2-77bc0770159d@c350.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 16\, 1-16
+UID:66746531-c037-4e14-970e-81555b3ed391@6674.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+SUMMARY:Lecture biblique du jour : Aggée(Ag) 2\,11-23
+UID:f76a3f22-d866-42e0-975e-f349df3eaef9@f76a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 6\, 1-25
+UID:284c86ac-c796-4233-964d-7684c29dd6b1@284c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270330
+SUMMARY:Lecture biblique du jour : Première lettre de Pierre(1P) 1\,22 à 2\,10
+UID:4870ef44-8700-4214-8547-89c31ae91d86@4870.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270409
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 4\, 1-11
+UID:c946d434-3dcb-4f79-bf4b-249250114f9a@c946.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270403
+SUMMARY:Lecture biblique du jour : Première lettre de Pierre(1P) 4\, 12 à 5\, 14
+UID:7fd42369-8d22-4632-b68b-c4fb0f110852@7fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270421
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 14\, 14 à 15\, 4
+UID:48a7d52a-7eb9-4855-9de5-921e37fea1ba@48a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270708
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 12\, 1-25
+UID:393117a2-5ac5-4c8f-b5c5-0398ebae9479@3931.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 15\, 10-21
+UID:fd82a6b1-ba42-4b70-a699-f65835a4f15e@fd82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270701
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 2\, 22-36
+UID:69082c09-2b08-451a-b935-a7ff88ec1a5c@6908.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+SUMMARY:Lecture biblique du jour : Qoheleth(Qo) 5\, 9 à 6\, 8
+UID:7e5e35cb-fee8-4461-bf99-a5c99a58fc23@7e5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 20\, 1-16
+UID:f53fec25-07d1-488e-be38-afe6044ee2bf@f53f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260104
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 60\, 1-22
+UID:94d05e87-5ae2-44fd-a1f1-c6a883772115@94d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270609
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 3\, 13-18
+UID:68c29ef4-a30c-4e67-8f41-4fdcb9c1e611@68c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270221
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 18\, 1-22
+UID:04b9dfd4-c4a0-4a66-ac8e-210c3ae625e8@04b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+SUMMARY:Lecture biblique du jour : Livre des proverbes (Pr) 25\, 1-28
+UID:ea8fd352-14cd-41a7-9f63-bbe5a425d23a@ea8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 9\, 23-43
+UID:6fbba260-9055-48d6-893e-7195e4a10353@6fbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+SUMMARY:Lecture biblique du jour : Isaïe 40\, 12-18.21-31
+UID:878be839-808b-4db6-91b4-e1f5f400fc71@878b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270207
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 1\, 1-17
+UID:81c97638-ca0f-4f48-bb04-e56fc5386707@81c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251208
+SUMMARY:Lecture biblique du jour : Isaïe 24\, 1-18
+UID:bea6aeae-d711-4a60-8c11-de69fada32bf@bea6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260720
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 2\, 1-13
+UID:3a0e5690-ce43-4c2b-872e-e0daafeb3e92@3a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+SUMMARY:Lecture biblique du jour : Qoheleth(Qo) 1\, 1-18
+UID:7965db4d-828e-4633-95de-4bff06bf28cf@7965.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+SUMMARY:Lecture biblique du jour : Lévitique(Lv) 26\, 3-17.38-45
+UID:be720e16-cf48-4c0b-8b46-849cfc1520e4@be72.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+SUMMARY:Lecture biblique du jour : Seconde lettre de S. Pierre(2P) 2\, 1-8
+UID:9facc292-a3f0-40c2-a48a-679b34f950f3@9fac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270527
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 12\, 12-31
+UID:d2a76320-2e27-4d40-8eec-f348d8c5cc62@d2a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270716
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 26\, 2-25
+UID:65caccc4-2bdb-4a8e-9778-2f8349fbd17d@65ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+SUMMARY:Lecture biblique du jour : Lévitique(Lv) 8\, 1-17 \; 9\, 22-24
+UID:ea947773-c81a-47c9-b8bd-90ba961139cd@ea94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 17\, 19-34
+UID:040d66ba-807c-45c9-bea9-7b277ea1313f@040d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270706
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 9\, 1-6.14 à 10\, 1
+UID:3bdea422-3536-4df2-b763-d7dbc86bc99b@3bde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Lecture biblique du jour : Isaïe 48\, 12-21 \; 49\, 9-13
+UID:16f54a05-55f6-49ee-8902-6b655632286c@16f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270105
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 62\, 1-12
+UID:d40d59a8-181d-4816-a7d5-7f5b5ab56c63@d40d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+SUMMARY:Lecture biblique du jour : Seconde lettre de S. Pierre(2P) 3\, 11-18
+UID:81e1237d-1ea6-4807-bc11-2c7cc16d5a9d@81e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251130
+SUMMARY:Lecture biblique du jour : Isaïe 1\, 1-18
+UID:753fbdb9-241f-49db-bb76-391a2fac4938@753f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 11\, 4-6.10-33
+UID:902b7ab1-198f-49ef-8ae6-dee24c0dc77c@902b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270323
+SUMMARY:Lecture biblique du jour : Livre des Lamentations(Lm) 1\, 1-12.18-20
+UID:ea94265f-e890-490f-9793-7e86cee88ece@ea94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 21\, 1-26
+UID:a0bfbf8d-27f9-41a6-97be-cbcab8df9715@a0bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260819
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 10\, 3 à 11\, 3
+UID:124c2b69-234d-431d-840b-7facea8530e2@124c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270906
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 1\, 1 à 2\, 3
+UID:21ca234f-bb5f-492a-b297-08e5b92e406e@21ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251213
+SUMMARY:Lecture biblique du jour : Isaïe 29\, 1-8
+UID:900fac53-6039-4763-8372-94f31c313cab@900f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 14\, 1-25
+UID:c483d938-e92e-4925-be66-3f0bd8358b73@c483.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+SUMMARY:Lecture biblique du jour : Livre de Tobie(Tb) 6\, 2-18
+UID:af9ae789-bb91-44ed-80c8-769f13bc21ee@af9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 38\, 1-30 \; 40\, 1-5
+UID:966961dc-3e14-4839-9246-a321fdb4a4a1@9669.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251228
+SUMMARY:Lecture biblique du jour : Exode(Ex) 1 \, 8-16\, 22
+UID:0d28cee9-081a-4800-ba1e-1e2003f6b16d@0d28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270214
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 6\, 4-25
+UID:e2ddbdf2-9d40-4df1-8ade-ce5c6d86196c@e2dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270311
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 9\, 11-28
+UID:93607443-e21c-4066-ac9d-0c516740c2f9@9360.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271101
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 15\, 15-17.27-38
+UID:77ec012c-e77b-4203-a0da-645b8eb1e6e6@77ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270626
+SUMMARY:Lecture biblique du jour : Livre des Juges (Jg) 11\, 1-9.29-40
+UID:a317cce9-3946-4d63-9cbc-703555ccdb29@a317.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270315
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 11\, 1-19
+UID:fac9e6ce-423e-4946-b25c-bc8acbd23af0@fac9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Lecture biblique du jour : Second livre des Martyrs d'Israël(2M) 7\, 20-41
+UID:da1ff885-8880-4d24-a76a-7b43dc344201@da1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270515
+SUMMARY:Lecture biblique du jour : Troisième lettre de S. Jean(3Jn)
+UID:ade9fae2-f4a2-4f1d-8fa0-4c0ea28da441@ade9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 7\, 2-16
+UID:ca46e8cb-f01e-4544-bc3a-dd147996cb10@ca46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 17\, 1-18
+UID:8496722d-e0b0-4a20-9706-ecdc3c4e2401@8496.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 15\, 11-20
+UID:cba46bac-4843-4d14-bb15-f1db50b6b1e1@cba4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271113
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 1\, 3-14.22-28
+UID:d7901e24-d575-4415-88f0-e87f73a06b14@d790.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+SUMMARY:Lecture biblique du jour : Livre d'Esther(Est) 3\, 14 à 4\, 8
+UID:d798beb4-4874-4a05-987f-1ba0ae61725a@d798.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 8\, 1-21
+UID:145ae528-2ace-43b9-b141-6ce9c7964bfd@145a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260117
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 8\, 1-22
+UID:f70ceeb0-f28e-489d-93fc-53cf3b22d611@f70c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270408
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 3\, 1-22
+UID:e9353f41-57a2-4616-b72a-072aeec4d24a@e935.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271002
+SUMMARY:Lecture biblique du jour : Livre de Michée(Mi) 1\, 1-9\; 2\, 1-11
+UID:38813e87-8241-49bf-8852-832a41613269@3881.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+SUMMARY:Lecture biblique du jour : Exode(Ex) 16\, 1-18.35
+UID:b3516744-57bc-4277-b546-82d9ea497035@b351.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 16\, 1-11.16.24.28-35
+UID:96672171-99fc-441f-b1b9-6dc9f15aef08@9667.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270213
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 5\, 1-22
+UID:3e1faf4d-a420-4714-a5f2-20ea76cbcf0a@3e1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270420
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 14\, 1-13
+UID:01256805-2403-430c-bbd8-cc8ef7e629a2@0125.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270825
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 2\, 11-22
+UID:08e83eb6-6263-4779-af45-b5e3b8770ce4@08e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270512
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 5\, 1-12
+UID:18b49269-c0aa-4a10-a821-94afc3c8193c@18b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270930
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 9\, 7 à 10\, 4
+UID:31b4c490-d924-4c0c-912d-b26d9288e5ae@31b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+SUMMARY:Lecture biblique du jour : Exode(Ex) 33\, 7-23 \; 34\, 5-9.29-35
+UID:21b775d2-bd56-4274-90b5-3876a42198d4@21b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251207
+SUMMARY:Lecture biblique du jour : Isaïe 22\, 8-23
+UID:9e1aeea6-059b-4018-a5a9-ee24345bedd3@9e1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+SUMMARY:Lecture biblique du jour : Exode(Ex) 1\, 1-22
+UID:2f7be057-95aa-42fb-8b0e-eceeff977388@2f7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+SUMMARY:Lecture biblique du jour : Exode(Ex) 24\, 1-18
+UID:1631a445-54b5-4a32-85fd-06b886558558@1631.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270115
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 3\, 1-20
+UID:c195f170-cfdc-46aa-8d3b-eb137901b7d3@c195.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270220
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 16\, 1-17
+UID:41644281-51a5-433a-8915-0b0a24eaa736@4164.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+SUMMARY:Lecture biblique du jour : Isaïe 16\, 1-5 \; 17\, 4-8
+UID:3d10501b-55ba-485d-bac3-d064dbf697e8@3d10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 14\, 1-21
+UID:e9e7ce4b-ff46-484b-a412-6b0bd1ec7127@e9e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270923
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 13\, 1 à 14\, 1
+UID:1a8e55bc-0f1e-4563-854d-3970b06ac14e@1a8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260727
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 12\, 1-25
+UID:68966bec-0537-44b5-9dc0-c1b1dff932cc@6896.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271006
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 17\, 24-41
+UID:b83c7f21-89a1-4551-a1ef-ef458c164847@b83c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 22\, 1-9 \; 23\, 1-8
+UID:0a6e4f9c-10b4-4d7c-98d3-4d4c3b1c8970@0a6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270318
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 12\, 1-13
+UID:87658e41-eda3-4e79-b732-e4b600087ff9@8765.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270306
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 6\, 9-20
+UID:1b261287-5c12-46c5-b8a4-f4fd2a76f6c1@1b26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270705
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 7\, 15 à 8\, 22
+UID:dfeafe5e-9289-46b3-90db-aae9a36b3330@dfea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 11\, 20 à 12\, 2.11-19
+UID:3ca593fd-b307-4253-9b25-402cbf8a5d7d@3ca5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270128
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 10\, 1-21
+UID:093bc36f-c79c-48b5-afed-4c1e00bd7b9c@093b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 58\, 1-14
+UID:b2eb328b-40bc-44df-87c4-cf2046526a46@b2eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 32\, 1-6 \; 33\, 1-22
+UID:2be12dc8-c1eb-4a80-b185-07debc28e06f@2be1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260707
+SUMMARY:Lecture biblique du jour : Néhémie(Ne) 7\, 72 à 8\, 18
+UID:c3b117b7-dd32-4c88-82d2-991a56483181@c3b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Lecture biblique du jour : Livre de Daniel(Dn) 1\, 1-21
+UID:ef38c00a-fa98-4f3d-961c-e7d530cad96a@ef38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270902
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 6\, 1-9
+UID:9fd8e5e7-c955-45f5-8e0c-6ad6a850322d@9fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+SUMMARY:Lecture biblique du jour : Livre d'Esther(Est) 3\, 1-11
+UID:c7770776-efc1-4056-a52f-fca33a8ead97@c777.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271015
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 21\, 1-18.23 à 22\, 1
+UID:8055fef5-6358-45d7-8197-b425fcb10c14@8055.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270721
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 6\, 1-23
+UID:c7d2928a-6610-4363-ad9e-dd7b3cef477e@c7d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+SUMMARY:Lecture biblique du jour : Exode(Ex) 12\, 1-20
+UID:3dd96461-fbc8-4ad1-b0c7-033919ab9884@3dd9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 3\, 2-16
+UID:09d08f60-7dc8-4a2b-983c-9aa1e2671e6c@09d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270702
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 3\, 1-21
+UID:19fea493-5445-464d-8e01-fb6d08f300c4@19fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+SUMMARY:Lecture biblique du jour : Isaïe 5\, 1-7
+UID:06d22276-b317-4246-b28e-e17049c64233@06d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270803
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 11\, 1-4.26-43
+UID:c1c3ad7a-3124-456a-84ab-de172fc0731f@c1c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251201
+SUMMARY:Lecture biblique du jour : Isaïe 1\, 21-27\; 2\, 1-5
+UID:4e03679d-bb89-4c95-8200-e8c24ec9d4aa@4e03.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 13\, 1-14
+UID:13667a1d-c81d-4a84-90d2-8045bc92b313@1366.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270616
+SUMMARY:Lecture biblique du jour : Josué (Jos) 3\, 1-17 \; 5\, 10-12
+UID:e52692e4-c3e3-435d-ade4-f4a4102310ca@e526.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260420
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 8\, 26-40
+UID:cfee988f-9c4c-4cc5-b8b7-bbcbc01b97a6@cfee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271105
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 28\, 1-17
+UID:4b4a1cf6-62de-4207-adcb-ff42cb414d51@4b4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271127
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 34\, 1-7.11-16.23-31
+UID:11797f0d-5d8f-48db-aab0-3182fd825881@1179.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270903
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 6\, 10-24
+UID:b000430a-a4f5-44fe-bbb2-460afd3a69de@b000.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Lecture biblique du jour : Joël(Jl) 3\, 1-4\,8
+UID:ea7df258-2c45-42cd-bd61-2da518384d2e@ea7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270914
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 9\, 1-15
+UID:7216eba5-7c0f-4645-b2df-7b119e47d438@7216.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 1\, 1 à 2\, 4
+UID:47805c74-449a-4831-8371-4073a2871803@4780.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270127
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 9\, 19-33
+UID:a58c6326-0d2e-4a43-b3f4-072baac4a9d7@a58c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270304
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 4\, 14 à 5\, 10
+UID:16bebe9b-7bfb-46cb-b845-cce5b28dcecb@16be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270313
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 10\, 11-25
+UID:266d50d1-bea5-440b-bb0c-c1c5da309dba@266d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270614
+SUMMARY:Lecture biblique du jour : Josué (Jos) 1\, 1-18
+UID:59558212-7589-498f-a9b9-536282906a5a@5955.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 2\, 42 à 3\, 11
+UID:284e467a-6fc7-4a75-ab44-abd53869ada3@284e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 44\, 21 à 45\, 3
+UID:f5a2d2c6-e4ec-4a1e-8b42-d1739654d623@f5a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 7\, 15-30
+UID:92ee5414-7551-4c81-98ac-fc3955073754@92ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 16\, 16-40
+UID:da565f9f-236d-4d86-a696-45a4ae3469d3@da56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 35\, 1-29
+UID:bc33309a-0acc-4a4b-a801-7ae319d21027@bc33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 3\, 1-13 \; 8\, 5-11
+UID:3de0b0dd-fc58-473a-a3c5-150ccf85dea7@3de0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270204
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 15\, 1-13
+UID:ae7de8b8-5689-4efb-ad90-3364396e55d2@ae7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271005
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 17\, 1-18
+UID:f5553ce2-31e0-4a39-a019-c029c659d465@f555.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 6\, 1-30
+UID:6693313c-e0c5-41c0-88db-21e562b5e31e@6693.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270331
+SUMMARY:Lecture biblique du jour : Première lettre de Pierre(1P) 2\, 11-25
+UID:8fa279d4-eb60-41ce-be94-7f5d4d4f0fe7@8fa2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 2\, 12 à 3\, 6
+UID:891bedd4-8de8-422e-b304-bc6bfceedefe@891b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271125
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 24\, 15-27
+UID:88f62606-b119-4b9f-96f4-8a6a820c13b4@88f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+SUMMARY:Lecture biblique du jour : Seconde lettre de S. Pierre(2P) 3\, 1-10
+UID:50126043-ae5b-4b84-829f-9ceab74c6dd8@5012.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271030
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 19\, 1-5.10 à 20\, 6
+UID:c349da7f-1e0c-4498-95b2-b506ed9b816a@c349.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270819
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 9\, 1-16.22-27
+UID:4bdb7e97-7adc-4e27-80c6-028b76a8d6b9@4bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251212
+SUMMARY:Lecture biblique du jour : Isaïe 27\, 1-13
+UID:328e3487-0d8f-4bba-be6d-52468aecaa36@328e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+SUMMARY:Lecture biblique du jour : Lettre aux Galates(Ga) 5\, 1-25
+UID:a7451dd4-5ce7-4beb-8fc2-827d61a2ffef@a745.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270114
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 2\, 17-29
+UID:0f127670-8ddc-4613-9beb-161fbf70e223@0f12.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270116
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 3\, 21-31
+UID:a8b2bf6d-d462-4268-8990-0e2f7d1f6445@a8b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+SUMMARY:Lecture biblique du jour : Exode(Ex) 34\, 10-28
+UID:07668bbe-9d35-4fc3-b26f-00e8ee68a18b@0766.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 6\, 5-37
+UID:b1c6c6de-08f0-41fa-a38b-13ea12442035@b1c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270629
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 1\, 1-19
+UID:f8cc3fc2-43f5-4d74-a658-01cf76901edd@f8cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+SUMMARY:Lecture biblique du jour : Esdras(Esd) 7\, 6-28
+UID:a0a12d7a-5d89-488d-ad3c-622b254aed24@a0a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270503
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 2\, 1-11
+UID:f3be5bae-5cd8-4476-91d6-3e6633ccffb1@f3be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 7\, 1-16
+UID:6033b8e6-dfe3-429c-9fbe-20a331c8f6e9@6033.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270627
+SUMMARY:Lecture biblique du jour : Livre des Juges (Jg) 13\, 1-25
+UID:a77d059b-397e-4f6b-83a4-2d42d145aa28@a77d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 58\, 1-14
+UID:91403534-d741-4830-bb9c-2c58bcf93dcd@9140.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270812
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 2\, 1-15
+UID:d831b133-3682-42c3-91c9-7dd0ac2a2ebe@d831.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271026
+SUMMARY:Lecture biblique du jour : Second livre des Chroniques(2Ch) 35\, 20 à 36\, 12
+UID:38ac0b18-d5dd-46b1-b363-1632052666aa@38ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270121
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 6\, 12-23
+UID:be584ecc-95bc-4374-9898-858c84f6227d@be58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260703
+SUMMARY:Lecture biblique du jour : Néhémie(Ne) 1\, 1 à 2\, 8
+UID:9c59ddeb-e228-4217-8ee8-3bb0f8135561@9c59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270124
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 8\,1-17
+UID:fea52f21-be2d-4c06-9758-bbe7f757197e@fea5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270208
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 1\, 18-31
+UID:c461514f-b5e5-47f4-8459-40681ad68fb4@c461.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 22\, 1-19
+UID:caed1bd2-bf7a-4dc6-8be5-11810ecaa169@caed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 7\, 6-14 \; 8\, 1-6
+UID:89d44367-b852-4a97-83a4-d830a026af3c@89d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251206
+SUMMARY:Lecture biblique du jour : Isaïe 21\, 6-12
+UID:83858f48-5490-49a7-ad1b-aa663e82e851@8385.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+SUMMARY:Lecture biblique du jour : Néhémie(Ne) 3\, 33 à 4\, 17
+UID:b904f689-cea8-4629-a045-33702f5c947b@b904.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270907
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 2\, 4-16
+UID:7ee171eb-573a-4b97-b6cc-5b927e5853f9@7ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270112
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 1\, 18-32
+UID:5156417f-2712-4e4e-8bbe-b0a7f40b880f@5156.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270201
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 12\, 1-21
+UID:f1b87042-f4f3-48c1-918c-19ef70940e2a@f1b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270813
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 3\, 5-27
+UID:31267474-17cf-4b70-ba7f-0b6100d5d0b0@3126.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270924
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 14\, 2-10
+UID:2bd67a7a-1d30-4d05-bcfe-a20cdd062d8d@2bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271029
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 22\, 10-30
+UID:35167a4d-781a-4a69-966f-63f340494993@3516.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 22\, 1-8.20-35
+UID:2ffd9f78-95c3-481d-ac9a-7cb3e731ca20@2ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+SUMMARY:Lecture biblique du jour : Isaïe 44\, 1-8.21-23
+UID:1bd00cce-5f6b-4957-b74b-65392612f525@1bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 12\, 14 à 13\, 13
+UID:4cc1320f-4ecd-4029-a36d-40e8a6b03a82@4cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+SUMMARY:Lecture biblique du jour : Esdras(Esd) 4\, 1-5.24 à 5\, 5
+UID:bb02fdda-dacf-40ce-a032-390276b3afaa@bb02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270406
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 2\, 1-11
+UID:15cf6572-6a8b-4584-9919-274e71881dc9@15cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 41\, 56 à 42.26
+UID:d9f03ad7-3616-4376-98db-cefeb3aed8cf@d9f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 9\, 1-18
+UID:18d12a40-51fa-4be2-a3b2-79ec1055b08a@18d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260228
+SUMMARY:Lecture biblique du jour : Exode(Ex) 12\, 37-49 \; 13\, 11-16
+UID:091ca9a2-6901-4bb6-a977-ed0686088fb7@091c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270211
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 1\, 6-18
+UID:a19745d1-0c39-461d-a909-1814c40cdec4@a197.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270901
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 5\, 22-33
+UID:4a4c67f0-1357-455b-80df-a567476135ff@4a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270119
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 5\, 12-21
+UID:8a2b3214-98f7-474f-ad1c-2577f7a5de5c@8a2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270610
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 4\, 1-12
+UID:1d655bbe-e987-4f6e-ac9b-8abda395a8bb@1d65.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271118
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 12\, 1-16
+UID:c369d837-b40d-4a78-b6be-93e1f03a0767@c369.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 19\, 1-17.23-29
+UID:397f998a-1b10-478c-aea1-0d7754277278@397f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+SUMMARY:Lecture biblique du jour : Exode(Ex) 2\, 1-22
+UID:419984ce-5a3b-4a6c-b5a4-7ba9913c735c@4199.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Lecture biblique du jour : Isaïe 7\, 1-17
+UID:544daacf-b2d7-4ab4-bbc5-c9db54af7905@544d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271018
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 1\, 1-19
+UID:1ce00fac-f791-4e50-a252-b43d01572cd1@1ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271021
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 4\, 5-8.13-28
+UID:881babbb-bdc1-4929-9ca3-4f252b253e8f@881b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271112
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 42\, 1-16\; 43\, 4-7
+UID:87c788ef-9ec9-4f70-af8b-d604588580f9@87c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261014
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 3\, 17 à 4\, 10
+UID:2adc1602-c27d-42c6-972c-22d834c09b66@2adc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 22\, 1-30
+UID:bba8e354-9375-4bbd-a74c-4cdd4275a649@bba8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260413
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 4\, 32 à 5\, 16
+UID:c3455ad2-51a5-4662-a34a-f86c64891079@c345.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+SUMMARY:Lecture biblique du jour : Baruch(Ba) 4\, 30 à 5\, 9
+UID:aecb0f59-5671-4e00-9b77-1a9035cf4d0f@aecb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270606
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 2\, 1-13
+UID:43ac055b-e963-4dbd-9647-491534781d6c@43ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261230
+SUMMARY:Lecture biblique du jour : Lettre aux Colossiens(Col) 1 \, 15 à 2 \, 3
+UID:191ba5a9-392d-464e-aae1-93bb76b445e7@191b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271011
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 30\, 1-18
+UID:a4753735-5aab-45f7-ba9d-938265846fb2@a475.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270704
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 5\, 1 à 6\, 4.10-12
+UID:93c035ad-7c9e-4931-a19e-70b4713e2303@93c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 23\, 1 à 24\, 12
+UID:9bc8c087-e7f1-4696-a8dc-72e36a370758@9bc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260118
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 9\, 1-17
+UID:48b48595-588e-4958-bb5a-aec48ee26fa9@48b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270308
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 7\, 11-28
+UID:cfcb191e-ad4f-48bf-96dc-a418d3e37b6f@cfcb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+SUMMARY:Lecture biblique du jour : Livre d'Esther(Est) 1\, 1-12 \; 2\, 5-17
+UID:c17bae3e-32fc-4e75-8381-a5cdb6457f93@c17b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270103
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 60\, 1-22
+UID:1818dc5c-74e0-41bc-a3a5-769801b32373@1818.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270625
+SUMMARY:Lecture biblique du jour : Livre des Juges (Jg) 9\, 30-32 \; 9\, 1-15.19-20
+UID:a6880b54-c6ec-4e93-8207-f9d4f4a403b2@a688.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 17\, 25-32
+UID:c234254d-a56d-441d-add6-b61d89e1da93@c234.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270720
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 4\, 2 à 5\, 7
+UID:033a74b2-65f1-44c6-bf8d-fd0fed55eb24@033a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 24\, 1-27
+UID:162bdf25-0f17-4f53-b4ca-274c287dc5da@162b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270520
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 9\, 1-18
+UID:5bfb3259-066c-49ea-b527-88c2060e06b3@5bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 11\, 1-26
+UID:ec225d37-c2f4-4c20-86a1-20c38661e36f@ec22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270303
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 4\, 1-13
+UID:c2e05790-8304-40ce-8d45-97a4fa465d3e@c2e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+SUMMARY:Lecture biblique du jour : Exode(Ex) 32\, 1-6.15-34
+UID:cf8e36d0-5546-4e4c-b17a-f65c9b7bd345@cf8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270319
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 12\, 14-29
+UID:04435975-0eaa-4228-8a65-5eaf25f88fef@0443.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 26\, 1-15
+UID:65b56931-db54-4369-bcd2-362d1fec3125@65b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 24\, 1-22
+UID:684cb008-aa66-40e2-b6f0-d5c06e85cbf1@684c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271124
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 20\, 27-44
+UID:3f2ac773-5fb8-4140-a570-18d438c01d78@3f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271007
+SUMMARY:Lecture biblique du jour : Second livre des Chroniques(2Ch) 29\, 1-2 \; 30\, 1-16
+UID:89f57201-bcbd-4c05-b5eb-e4cc91cab32f@89f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260817
+SUMMARY:Lecture biblique du jour : Jonas(Jon) 3\, 1 à 4\, 11
+UID:6cf22e13-32f7-465c-9447-8995723db451@6cf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270703
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 4\, 1-18
+UID:e4b77d02-deff-4ea1-9648-4beb478c04f5@e4b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+SUMMARY:Lecture biblique du jour : Aggée(Ag) 1\, 1 à 2\, 10
+UID:5290807c-a596-4235-b0f3-4e221e319ca2@5290.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270731
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 8\, 1-21
+UID:9e0dd74b-9d65-4913-873d-6aa0e025647a@9e0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270226
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 31\, 1-5.23
+UID:0d9114ad-24c9-4ddf-8e26-11443ce2550a@0d91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 28\, 15-31
+UID:430c42a0-f90c-4355-a383-3fa08cae9533@430c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260102
+SUMMARY:Lecture biblique du jour : Cantique des cantiques(Ct) 4\, 1 à 5\, 1
+UID:a4250650-61ff-464f-8c89-df08e419093b@a425.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 11\, 4 à 12\, 8
+UID:7be57847-9d3c-45dc-96e8-d630844d4272@7be5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270811
+SUMMARY:Lecture biblique du jour : Second livre des Chroniques (2Ch) 20\, 1-9.13-24
+UID:aa90e1a1-91ed-434e-98c3-7dfecd9501e7@aa90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270531
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 15\, 1-19
+UID:c0253528-e338-4ec1-8773-4807a4cbd219@c025.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Lecture biblique du jour : Malachie(Ml) 3\, 1-21
+UID:b70f3522-f9fc-45e5-ac09-56958c03ce92@b70f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 2\, 22-41
+UID:5fd0ed4d-d891-4376-81eb-b227e5da050a@5fd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261129
+SUMMARY:Lecture biblique du jour : Isaïe 6\, 1-13
+UID:c2588cbf-269d-4ad7-9988-4f0ca54b7c90@c258.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270621
+SUMMARY:Lecture biblique du jour : Livre des Juges (Jg) 2\, 6 à 3\, 4
+UID:d4b07320-bcb1-4bb7-b063-fe038e9a6af9@d4b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251223
+SUMMARY:Lecture biblique du jour : Isaïe 51\, 1-11
+UID:47123e8c-95e5-498f-a00e-c0586370d85e@4712.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+SUMMARY:Lecture biblique du jour : Isaïe 51\, 17 à 52\,2.7-10
+UID:ad35733b-3268-4ee8-9a2d-f76215a824e1@ad35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260818
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 9\, 1 à 10\, 2
+UID:f1505662-c31d-45a2-8b7d-d5e4c04becb4@f150.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251210
+SUMMARY:Lecture biblique du jour : Isaïe 25\, 6 à 26\, 6
+UID:b36550a7-ce9b-4e7e-b3a0-84d06e5ac3f4@b365.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 40\, 6-24\; 42\, 1-6
+UID:7fdf09bc-eb25-432b-8d8a-fc00477a42d7@7fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 16\, 2-13\, 20-26
+UID:ed818f27-e1b5-4458-8f09-1596f494a562@ed81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 15\, 36 à 16\, 15
+UID:15969800-e7a1-47af-94fa-b4504d07ede1@1596.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260507
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 19\, 1-20
+UID:7b932847-82a6-48a9-9201-4c62abc73c93@7b93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 25\, 7-11.19-34
+UID:d16b2bae-5549-4f2c-a5cd-be5446399a0d@d16b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+SUMMARY:Lecture biblique du jour : Néhémie(Ne) 12\, 27-47
+UID:7fb7d83b-c762-4ed7-91a5-a9d1d6381e47@7fb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+SUMMARY:Lecture biblique du jour : Livre de Tobie(Tb) 3\, 7-17
+UID:f51710bc-fce2-43bc-ae27-e5eaab7b46de@f517.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270719
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 2\, 1-11 \; 3\, 1-5
+UID:a36a48d6-e3e3-4c4f-8679-6c187dd0f7e5@a36a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270622
+SUMMARY:Lecture biblique du jour : Livre des Juges (Jg) 4\, 1-24
+UID:e3389196-c2f0-4909-a584-f10f1f5e2fa6@e338.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270125
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 8\, 18-39
+UID:a66847a1-c1cb-4475-bb06-1b4178ff9961@a668.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270722
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 7\, 1-25
+UID:2900fdb4-664a-4a69-9e89-b1e95503f81d@2900.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+SUMMARY:Lecture biblique du jour : Néhémie(Ne) 9\,1-2.5-21
+UID:4043e50c-ab27-400b-92b3-d5be6b7feab8@4043.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270904
+SUMMARY:Lecture biblique du jour : Lettre à Philémon (Phm) 1-25
+UID:dbb24133-de0f-4d02-8d63-d8586dfb2745@dbb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270222
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 24\, 1 à 25\, 4
+UID:d5a9c653-a9e9-462f-888d-066082ea2d20@d5a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270523
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 10\, 14 à 11\, 1
+UID:d7f6fc73-1d1f-4a65-9ba3-5f05ce8c0e57@d7f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+SUMMARY:Lecture biblique du jour : Lettre aux Galates(Ga) 1\, 1-12
+UID:f3eb6775-23cf-4455-900b-c5042b329827@f3eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+SUMMARY:Lecture biblique du jour : Abdias(Ab) 1-21
+UID:ff63a53e-cd8d-4b35-9a3a-743c7e3de0be@ff63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 59\, 15-21
+UID:d6a005c0-7c34-431e-94e0-a2555dee48bc@d6a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270224
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 29\, 1-5.9-28
+UID:a32b91ea-afcb-453c-b4b8-eaa577a8a405@a32b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270426
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 19\, 11-21
+UID:e60bad0b-f93c-4e8f-baa9-f32a606dfa68@e60b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271031
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 23\, 9-17.21-29
+UID:cbdcd402-d33c-4143-a2e2-4ced5af997e8@cbdc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 2\, 1-21
+UID:5229599d-0300-43d7-9acf-c9249543f4c8@5229.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270921
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 10\, 1-15
+UID:1037eefa-addd-42d2-bc0b-333d170ed8c7@1037.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270927
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 3\, 1-15
+UID:86409509-4caa-4849-b3fc-3da01a8cf0ad@8640.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270630
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 1\, 20-28 \; 2\, 11-21
+UID:cadb7f43-0d33-4bd6-9315-08b6e624b4c2@cadb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270724
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 12\, 1-25
+UID:4a0b712e-e3fc-4a6c-87f9-583c2cf7321c@4a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260103
+SUMMARY:Lecture biblique du jour : Cantique des cantiques(Ct) 5\, 2 à 6\, 1
+UID:9e317690-5b1b-4253-8eeb-07862b065280@9e31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251220
+SUMMARY:Lecture biblique du jour : Isaïe 48\, 1-11
+UID:7de39a6e-00cb-4b37-9a32-e14d0bfb9503@7de3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270727
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 24\, 1-4. 10-19
+UID:4e72fc0b-89c5-4ac6-a41f-d86dbf2e5c75@4e72.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270324
+SUMMARY:Lecture biblique du jour : Livre des Lamentations(Lm) 2\, 1-9
+UID:815058ae-ad9c-4257-ab6c-49d2a7effe8b@8150.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270529
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 14\, 1-19
+UID:f5bb2caa-529d-4c29-814b-360291c6f2a4@f5bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260914
+SUMMARY:Lecture biblique du jour : Seconde lettre de S. Pierre(2P) 1\, 12-21
+UID:ea8870d6-e5f6-4879-becb-5d4f393522ea@ea88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271001
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 28\, 1-6.14-22
+UID:001dd2e9-c2a3-4847-9a54-2694c896c04b@001d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+SUMMARY:Lecture biblique du jour : Lettre aux Galates(Ga) 2\, 11 à 3\, 14
+UID:88edc444-8230-42d4-b14d-32d11cb93937@88ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 9\, 15 à 10\, 10.33-36
+UID:c9a1826f-9bf3-400f-adbf-b2c872516254@c9a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261214
+SUMMARY:Lecture biblique du jour : 1er livre des Chroniques 17\, 1-15
+UID:c6557310-bb99-4573-bd7a-754ad7f907e3@c655.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Lecture biblique du jour : Premier livre des Martyrs d'Israël(1M) 6\, 1-17
+UID:e4899dfd-f4a5-4504-a224-11f0022baba9@e489.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270525
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 11\, 17-34
+UID:4abb9adc-3dbd-4d41-8a75-8c640bb37146@4abb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 21\, 27-39
+UID:c7102b64-9ff1-4c75-b9b9-051f7671c23f@c710.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260902
+SUMMARY:Lecture biblique du jour : Première lettre à Timothée (1Tm) 1\, 1-20
+UID:74013b06-46f4-4f4c-ae03-a006e48d1419@7401.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+SUMMARY:Lecture biblique du jour : Livre d'Esther(Est) 4\, 9-16
+UID:e9626031-fc14-427c-8275-987f8ca892e2@e962.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+SUMMARY:Lecture biblique du jour : Qoheleth(Qo) 3\, 1-23
+UID:c1dbc83b-df42-46d2-a3a7-85ac9d1a2346@c1db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271123
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 18\, 1-13.20-32
+UID:5f425039-666e-45ad-a1a2-de93dfa78cf3@5f42.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270802
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 10\, 1-13
+UID:0ca5055f-becf-493d-b206-bf6e4edde5c6@0ca5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270809
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 21\, 1-21.27-29
+UID:1cec8987-2c61-49a1-abff-f561c40b3578@1cec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 16\, 1-15
+UID:15df31e4-ea82-45b5-a9cb-dc4513344c39@15df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 24\, 1-19
+UID:8039bbc8-8009-47a1-9992-b1bb891ddbe4@8039.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271120
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 14\, 12-23
+UID:92b09853-31ac-4eef-9ac2-4c71b2385304@92b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+SUMMARY:Lecture biblique du jour : Exode(Ex) 18\, 13-27
+UID:b03bd929-cde0-4737-a9c1-491fd912047b@b03b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+SUMMARY:Lecture biblique du jour : Joël(Jl) 4\, 9-21
+UID:37125876-f2a7-4766-bd6b-badeb4ed1df6@3712.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 22\, 10-21
+UID:32cd53cc-f5ae-45af-a570-057c296ab289@32cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260928
+SUMMARY:Lecture biblique du jour : Livre de Tobie(Tb) 2\,1 à 3\, 6
+UID:d654df3a-c57d-4e2c-8154-bcd5cc5bce7d@d654.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 6\, 1 à 7\, 1
+UID:1e68ba25-7d90-4f62-a436-cdc191e9e01b@1e68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270410
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 5\, 1-14
+UID:762bfd50-9ca7-42d2-bed3-24e0ec3fbcb8@762b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270428
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 21\, 1-8
+UID:73c1b1b2-34a0-49a2-99ed-e0bf4838a872@73c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260611
+SUMMARY:Lecture biblique du jour : Lettre aux Galates(Ga) 4\, 8 à 5\, 1
+UID:4ba11481-1851-478b-8ed5-9f77ef878c7d@4ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 42\, 7-17
+UID:07edbff1-699c-423c-a03e-506774895c89@07ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261208
+SUMMARY:Lecture biblique du jour : Isaïe  35 \, 1-10
+UID:146b7e58-f89d-4e70-a8b6-c74925725341@146b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 1\, 16 à 2\, 24
+UID:6bed29ee-3c7d-4513-b4c7-17d287a1567d@6bed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261219
+SUMMARY:Lecture biblique du jour : Isaïe 41\, 8-20
+UID:6e0419f7-12eb-4c86-8e6f-d1d56723ce2a@6e04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 27\, 21-44
+UID:cdfe6544-fad4-4bb9-8ef0-243565b8f5d4@cdfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Lecture biblique du jour : Ruth 2 \, 1-13
+UID:226b5141-42fc-4af8-b2e4-ee0547283e3f@226b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270920
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 9\, 1-14
+UID:4eb90ae9-2349-4c64-b8b9-8596ae76d851@4eb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+SUMMARY:Lecture biblique du jour : Exode(Ex) 22\, 20 à 23\, 9
+UID:d637c3fd-f480-4332-889b-94839a280f6c@d637.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271103
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 24\, 1-10
+UID:a54c4b50-8e5a-4c78-8486-b7be386aeaaf@a54c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 10\, 34 à 11\, 4.18
+UID:b28198ad-9974-41d8-8965-fa0b64128ad7@b281.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 35\, 1-8
+UID:e8175853-a655-4899-a49b-bbb7d641962d@e817.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+SUMMARY:Lecture biblique du jour : Ruth 3\, 1-18
+UID:e87c40da-107f-4c33-a20a-ea96c1b104d1@e87c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 18\, 1-21
+UID:717c9d7b-7ae5-45ac-aef2-e1a6505a7527@717c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270101
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 2 \, 9-17
+UID:00f5dd74-2fca-464c-addb-c5824414eaf0@00f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270418
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 12\, 1-18
+UID:58832f55-cbab-453a-a87e-968f9c0990ad@5883.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270713
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 19\, 8-10\; 20\, 1-17
+UID:2ef5fad0-c3c1-405e-a17e-4dc1b8b11b14@2ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+SUMMARY:Lecture biblique du jour : Lévitique(Lv) 16\, 2-28
+UID:eeb2537c-5524-465a-a348-28ec60b3a121@eeb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+SUMMARY:Lecture biblique du jour : Lettre à Jude 1-25
+UID:5240cb15-6877-4171-b8e9-d7d26986fca8@5240.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261103
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 3\, 1-19
+UID:4a4de9a7-9343-4403-924a-0df0ea4bd781@4a4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270528
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 12\, 31 à 13\, 13
+UID:ce73f5ae-d948-418e-b83c-3a5d0fbc175c@ce73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270430
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 22\, 1-9
+UID:dff4bfe7-e868-4a4a-bcfc-71106f3a670d@dff4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270827
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 3\, 14-21
+UID:ab1e7121-70c4-44ac-9f89-74cf7b5f05c6@ab1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 8\, 13 à 9\, 9
+UID:2b7e7c22-b512-409d-9171-a7d3d2dec60a@2b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 43\, 1-34
+UID:1c574d6a-1f24-4f96-babf-fa6ed8e7b938@1c57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 28\, 10 à 29\, 14
+UID:c2ae1974-e09c-465f-81d3-a447f2db5c5c@c2ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Lecture biblique du jour : Premier livre des Martyrs d'Israël(1M) 9\, 1-22
+UID:f0751844-adf2-4f2f-b83a-6f56c2328f92@f075.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260603
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 10\, 1 à 11\, 6
+UID:c09250f7-6b64-445b-9f47-c1bd4543a48c@c092.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 3\, 12 à 4\, 4
+UID:06de76b8-5e2e-45f4-8ab8-3717e7bc121e@06de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261005
+SUMMARY:Lecture biblique du jour : Livre de Judith(Jdt) 5\, 1-22
+UID:09107bc4-9016-4e3b-aaa8-73a80cf7d70a@0910.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261213
+SUMMARY:Lecture biblique du jour : Ruth 4 \, 1-22
+UID:9690057e-4291-466f-8207-aab412025285@9690.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260301
+SUMMARY:Lecture biblique du jour : Exode(Ex) 13\, 17 à 14\, 9
+UID:d09fba78-3370-45aa-b689-1c664f286ddc@d09f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 20\, 1-13 \; 21\, 4-9
+UID:ff8c38f2-f82b-456f-b6aa-c379b54b2789@ff8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270506
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 4\, 1-24
+UID:1d84c042-6662-4889-9990-8188ad5c519e@1d84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 4\, 5-31
+UID:014bbd18-1b69-4436-b226-5ad4cf49d7f9@014b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+SUMMARY:Lecture biblique du jour : Esdras(Esd) 1\, 1-8\; 2\, 68 à 3\, 8
+UID:6bf83d39-1076-4ba7-9c62-78d2f8f7d213@6bf8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271110
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 30\, 18 à 31\, 9
+UID:503e790f-6451-4e61-8ded-0bb74384a548@503e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+SUMMARY:Lecture biblique du jour : Exode(Ex) 3\, 1-20
+UID:8ecd721e-6216-438a-b04e-0cfe42925d3e@8ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270524
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 11\, 2-16
+UID:f326443e-81f9-4f4a-8256-eb8a058c81c3@f326.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 2\, 1-16
+UID:637458c9-7702-4bbc-9c7c-977478e17ffb@6374.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 11\, 7-29
+UID:bdaa1e28-75ba-4d63-af80-02fa22b69aaf@bdaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271022
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 7\, 1-20
+UID:e5e3edef-38c7-4086-a2b4-adca9c1181e1@e5e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270718
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 31\, 1-4 \; Second livre de Samuel (2S) 1\, 1-16
+UID:527b235c-8c16-420f-9bab-07b365f88b2e@527b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 27\, 22 à 28\, 7
+UID:74b94bda-aa01-4af3-aac3-fd4b887dd269@74b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270824
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 2\, 1-10
+UID:310ec632-1e1f-45be-a3bc-e18641a131dd@310e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 12\, 1-23
+UID:6b2511f9-92d2-4563-9c0a-303882dfa788@6b25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 21\, 40 à 22\, 21
+UID:bdd0916d-5250-4ab7-94f9-4368d40d025e@bdd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Lecture biblique du jour : Livre de Daniel(Dn) 3\, 8-30
+UID:162ec878-330a-40b4-bbe9-2cd203ec664e@162e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270309
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 8\, 1-13
+UID:1548c35f-3565-447c-979d-99720ab03a12@1548.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+SUMMARY:Lecture biblique du jour : Livre de Judith(Jdt) 10\, 1-6.11-23
+UID:057a26de-f579-4fc5-a82c-33cee8b3e8cc@057a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 12\, 9 à 13\, 9
+UID:ba5c2b7c-4481-434b-97fd-65be3013bea4@ba5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260718
+SUMMARY:Lecture biblique du jour : Livre des proverbes (Pr) 31\, 10-31
+UID:4c4f9c3d-d551-45f8-8301-111e9108c1c0@4c4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 18\, 1-28
+UID:2014fec3-5a2e-42cb-b8bd-860ed39b2c2f@2014.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270312
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 10\, 1-10
+UID:e0e17d41-3603-4703-b9c3-b7128d758316@e0e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270317
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 11\, 32-40
+UID:4031a348-eecc-4292-93a4-e88150aefceb@4031.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+SUMMARY:Lecture biblique du jour : Livre de Tobie(Tb) 4\, 1-6.19 \; 5\, 17
+UID:f74b33be-c804-448a-9f5c-707a5a55bd3b@f74b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 12\, 14-43
+UID:701201d0-9083-436f-9f10-4d4b1d96624a@7012.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260926
+SUMMARY:Lecture biblique du jour : Livre de Baruch(Ba) 3\, 9-15.24 à 4\,4
+UID:a745e1dd-6170-4306-a709-468497c00ed2@a745.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+SUMMARY:Lecture biblique du jour : Lettre aux Philippiens(Ph) 3\, 1-16
+UID:e112f4f5-47ce-4989-adaf-521047987fad@e112.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+SUMMARY:Lecture biblique du jour : Livre de Judith(Jdt) 8\, 1 à 9\, 36
+UID:3f4ee285-e29f-4cf3-902b-d92b62b49c9b@3f4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+SUMMARY:Lecture biblique du jour : Livre de Tobie(Tb) 7\, 1.9-16 \; 8\, 4-14
+UID:268398cc-4c42-458d-a4bc-38d55c879c5e@2683.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270329
+SUMMARY:Lecture biblique du jour : Première lettre de Pierre(1P) 1\, 1-21
+UID:79c5a825-8922-486f-9b32-b759163a6608@79c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270714
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 21\, 1-10
+UID:7255aef4-738f-4bd0-95de-17e142c2760b@7255.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+SUMMARY:Lecture biblique du jour : Livre d'Esther(Est) 5\, 1-14\; 7\, 1-10
+UID:c8ecff54-c0cb-4a03-ba8c-9ebaaf8b7b03@c8ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271004
+SUMMARY:Lecture biblique du jour : Livre de Michée(Mi) 6\, 1-15
+UID:42f4bcfc-995c-4890-ba3b-3598ce778406@42f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270831
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 5\, 8-21
+UID:0a90fb61-7c1a-4ed7-8739-ff6642d2e399@0a90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 7\, 17-43
+UID:4d3d299c-2359-4533-a338-731e80e4d6b9@4d3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 21\, 1-21
+UID:d2bd93b5-ad66-452d-942d-84704ae64b77@d2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271102
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 36\, 1-10.21-32
+UID:4553e42b-d209-4e34-8ef2-33afb5d40778@4553.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260107
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 56\, 1-8
+UID:b1d87aa7-9d2b-4d9f-bd78-d3a5a9d61d5d@b1d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+SUMMARY:Lecture biblique du jour : Exode(Ex) 40\, 16-38
+UID:05bbabec-616e-43aa-8840-e65f87b37f23@05bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261209
+SUMMARY:Lecture biblique du jour : Ruth 1 \, 1-22
+UID:b2ef3033-c6a6-42df-a9a7-d23cdece8014@b2ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270429
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 21\, 9-27
+UID:3d6caba6-8720-453b-87ea-e878d65974ca@3d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270102
+SUMMARY:Lecture biblique du jour : Lettre aux Colossiens(Col) 2\, 16 à 3 \, 4
+UID:4851e935-47da-4651-9487-20966b1f63ac@4851.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271025
+SUMMARY:Lecture biblique du jour : Livre de Nahum(Na) 1\, 1-8\; 3\, 1-11
+UID:52a87ce2-b2dd-4045-afca-05fe57511251@52a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 23\, 12-35
+UID:a935c620-34a5-419a-ac7f-a325b5d43be1@a935.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270413
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 8\, 1-13
+UID:b6b77eec-4c4d-4285-a7e5-00ff93c8559b@b6b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261228
+SUMMARY:Lecture biblique du jour : Exode(Ex) 1 \, 8-16\, 22
+UID:e410c3ad-5084-4ca5-8719-f9135f413c14@e410.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 26\, 1-4.9-18
+UID:e99e79bd-37d8-4fdd-bbbe-a0ddafafc95f@e99e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+SUMMARY:Lecture biblique du jour : Lettre aux Philippiens(Ph) 3\, 17 à 4\, 9
+UID:4e7588b6-573f-417d-b504-a912558ca913@4e75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270912
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 7\, 1-17
+UID:265c6712-e45b-4fe6-9804-92038bc85cfe@265c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251227
+SUMMARY:Lecture biblique du jour : 1re lettre de Jean(1Jn) 1\, 1 à 2\, 3
+UID:e6b0678b-a4ee-4dac-94d6-ea0e658e222c@e6b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270826
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 3\, 1-13
+UID:2bd946eb-ab1d-41ca-9ba3-4f2e6bb6e760@2bd9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 7\, 1-21
+UID:7b917c1b-ff82-4734-bde9-b3fa0dd8fb42@7b91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Lecture biblique du jour : Isaïe  13\, 1-22a
+UID:627260d5-b591-45a2-a389-594d5bed2ec1@6272.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270709
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 15\, 1-23
+UID:36f414d6-fc75-4a2e-bb9e-042e723adb7e@36f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270113
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 2\, 1-16
+UID:584cdbb6-d4dc-4730-acf1-7b4b86ce4258@584c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 7\, 22-36
+UID:978f6af6-21bb-4dcc-9039-eb0e309266e0@978f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261222
+SUMMARY:Lecture biblique du jour : Isaïe 43\, 1-13
+UID:63ab3e87-fd5e-44c8-99a9-d58317b148d0@63ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270502
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 1\, 1-10
+UID:f3f00050-c130-4d3c-9e2b-fd9bd7b510e3@f3f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270505
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 2\, 18-29
+UID:7af4a1e0-7d15-4260-b475-023d29d97b93@7af4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270624
+SUMMARY:Lecture biblique du jour : Livre des Juges (Jg) 7\, 1-8.16-22
+UID:d1289239-0954-4740-b661-be96ace60c56@d128.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270729
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 1\, 11-35 \; 2\, 10-12
+UID:bbbc7de6-64c0-4f87-aa59-bc3f9f826943@bbbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270908
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 3\, 1-15
+UID:960f8efc-0c3a-48b1-b36d-87c7ddee04c6@960f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260527
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 3\, 7 à 4\, 4
+UID:372ba90a-5462-42be-9252-813e7ec7d35f@372b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271023
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 9\, 1-11.16-21
+UID:b87d2e62-67e5-427a-9103-ed428e869bb1@b87d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271016
+SUMMARY:Lecture biblique du jour : Livre de Sophonie(So) 1\, 1-7.14 à 2\, 3
+UID:07384ac7-ddb0-40d1-84b2-cb9a30c3c1a2@0738.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261020
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 14\, 20 à 15\, 10
+UID:b6673017-d0f3-42b0-a5d1-19de1df26169@b667.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Lecture biblique du jour : Isaïe 8\, 23 à 9\, 6
+UID:c10a3679-8c6a-4fc9-ad65-29173cf46805@c10a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 1\, 15 à 2\, 11
+UID:5e8b3f90-332f-4aab-b082-490b9a5716b4@5e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271116
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 8\, 1-6.16 à 9\, 11
+UID:9e32fec8-da42-41a7-85dc-2150c0a81b9e@9e32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 10\, 6-18
+UID:d7c63eed-9dc3-442d-9d9e-47ec4510d63f@d7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270605
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 1\, 19-27
+UID:a305a049-d8ca-49cb-b7ae-f7fe7cb7a088@a305.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+SUMMARY:Lecture biblique du jour : Livre de Tobie(Tb) 1\, 1-22
+UID:c4f1524e-0e1e-4df1-8582-53699fc8537f@c4f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270623
+SUMMARY:Lecture biblique du jour : Livre des Juges (Jg) 6\, 1-6.11-24
+UID:2d1a44ed-46de-42c3-9f17-e3fc5d24557d@2d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+SUMMARY:Lecture biblique du jour : Livre des proverbes (Pr) 10\, 6-32
+UID:8bb9e5f8-8fed-4f71-b541-12dacee0ee5a@8bb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270715
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 25\, 14-24.28-39
+UID:e946024f-2b1b-4922-8e6f-caba67daf8e0@e946.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270608
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 3\, 1-12
+UID:2d631a62-f6a6-43fb-a1fd-eecc2e8806d6@2d63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270603
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 16\, 1-24
+UID:fe5603b8-3d03-4db3-a002-7995e0e39f2f@fe56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 28\, 1-28
+UID:19318c3e-d28b-41af-99fc-bdfb6f9ceb0b@1931.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271003
+SUMMARY:Lecture biblique du jour : Livre de Michée(Mi) 3\, 1-12
+UID:7790b019-8b9c-43d7-a46f-bfd6e9c660b1@7790.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270922
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 11\, 1-9
+UID:c1b59bdb-22ca-44a6-a91e-81dd5a15c275@c1b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270612
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 5\, 12-20
+UID:c6e0090b-6a4d-4bc7-9713-410b7a537116@c6e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+SUMMARY:Lecture biblique du jour : Lévitique(Lv) 19\, 1-18.31-37
+UID:63b18d1e-d265-45ad-9031-f082f61133d8@63b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Lecture biblique du jour : Première lettre à Timothée (1Tm) 6\, 11-21
+UID:e72a08a4-4672-4ec3-a6c1-b0bd53dc7b9e@e72a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270601
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 15\, 20-34
+UID:c10ad6ec-d6e0-4847-8ac4-307268b36f17@c10a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270301
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 2\, 5-18
+UID:a1432b2e-8cc2-4528-8d9c-84472158fa71@a143.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270111
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 1\, 1-17
+UID:c0ce415c-66f5-451c-9512-200dc2da52f1@c0ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271122
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 17\, 3-15.19-22
+UID:bf330c1d-7249-43b6-b6e3-68f2ca5209a5@bf33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 1\, 1-22
+UID:31d85f01-e4ed-45a4-9a50-cf64bea52ced@31d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 2\, 1-18
+UID:5abe43ab-9277-41cb-af66-4d484cdbe4bf@5abe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270401
+SUMMARY:Lecture biblique du jour : Première lettre de Pierre(1P) 3\, 1-17
+UID:7116a9b7-9a5e-4532-b706-0280295b493c@7116.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 42\, 1-8\; 49\, 1-9
+UID:71847580-0cf8-4949-abea-a39abb0d37e0@7184.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270815
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 4\, 38-44 \; 6\, 1-7
+UID:52d47b42-b7c8-479e-84d9-adbe1387ef0f@52d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Lecture biblique du jour : Isaïe 11 \, 10 - 16
+UID:b7072700-cf68-4152-af76-f3c0b6a5c760@b707.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270219
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 15\, 1-18
+UID:10fcb785-8360-44f7-a7cc-cd0de97b33e4@10fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270828
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 4\, 1-16
+UID:dab7829a-6820-4566-87f0-4a9fa2619352@dab7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270218
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 12\, 1-14
+UID:c5e13dc5-6aea-427f-83b5-957e5f1d1a5e@c5e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260518
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 25\, 1-27
+UID:a11f5dff-7c5b-42f9-9da5-11f92a96b1d4@a11f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260702
+SUMMARY:Lecture biblique du jour : Esdras(Esd) 9\, 1-9.15 à 10\, 5
+UID:0ab1e864-1f26-46d4-9aff-f580c7836ebd@0ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270203
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 14\, 1-23
+UID:4599d2c1-dcf1-436d-8feb-0925ef09cb55@4599.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260831
+SUMMARY:Lecture biblique du jour : Lettre à Tite (Tt) 2\, 1 à 3\, 2
+UID:76d8711d-bff2-4955-b567-f0c28195a88c@76d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270830
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 4\, 25 à 5\, 7
+UID:31512729-974e-4d58-821c-8864415131f0@3151.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 19\, 21-40
+UID:ce77e291-9b1e-4e90-8a31-1fa22abf52ea@ce77.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+SUMMARY:Lecture biblique du jour : Seconde lettre à Timothée (2Tm) 4\, 1-22
+UID:9cd515a3-f438-4b3a-85d6-c0df229a0003@9cd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270514
+SUMMARY:Lecture biblique du jour : Deuxième lettre de S. Jean(2Jn)
+UID:41270272-5f31-401b-b648-82237f720aef@4127.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270513
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 5\, 13-21
+UID:bf37cdef-f207-4a0b-aeaf-53fa9e731470@bf37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Lecture biblique du jour : Michée 4 \, 14 à 5\, 7
+UID:1b661d57-f1b3-4976-b76d-b526846baba9@1b66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 6\, 1-15
+UID:873fa055-ee76-4f9d-995f-3a41f77bc575@873f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270617
+SUMMARY:Lecture biblique du jour : Josué (Jos) 5\, 13 à 6\, 21
+UID:f6f63161-9635-4417-8d48-65c28e979582@f6f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260215
+SUMMARY:Lecture biblique du jour : 1re lettre aux Thessaloniciens (1Th) 1\, 1 à 2\, 12
+UID:9a452a19-d8fe-4e1b-a757-1b213f819b1d@9a45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 39\, 1-23
+UID:1cde66d5-8604-4da8-99b9-7d3865144b31@1cde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 18\, 1-33
+UID:55a45e44-cb8c-4c58-8770-726dfa1d3b15@55a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 4\, 1-24
+UID:11c2014a-2133-4b65-a6c0-a50cce463804@11c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+SUMMARY:Lecture biblique du jour : Première lettre à Timothée (1Tm) 3\, 1-16
+UID:d3c36a01-a953-4c73-bf78-401e8af54025@d3c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270725
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 15\, 7-14.24-30\; 16.5-13
+UID:395e2ed3-37bf-477f-80a4-53bd32590868@395e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 31\, 1-18
+UID:51ae509c-6b3f-4b21-86f5-58ceeafa0de4@51ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270607
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 2\, 14-26
+UID:ae0f0dfa-1df6-4b17-be45-2257d029c988@ae0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270325
+SUMMARY:Lecture biblique du jour : Livre des Lamentations(Lm) 2\, 10-22
+UID:e87efff1-a462-4276-b418-a31ce69527f4@e87e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 20\, 7-18
+UID:000f14ae-e621-45bd-8dbc-cdd4f9441b6e@000f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260616
+SUMMARY:Lecture biblique du jour : Lettre aux Philippiens(Ph) 1\, 27 à 2\, 11
+UID:bc20813b-6248-472c-96c6-f1d12e2b85e8@bc20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 12\, 1-15
+UID:11394ba5-14fc-434e-b65d-b8e7ce9f7432@1139.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270305
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 5\, 11 à 6\, 8
+UID:39d8402f-59d6-4e15-b27a-c5d7516b6f13@39d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 14\, 8 à 15\, 4
+UID:09dd724c-5c15-4e81-a786-ec2d8a74ff88@09dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270321
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 50\, 4 à 51\, 3
+UID:b7607217-6e60-4bfa-88f3-43391487109d@b760.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271106
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 29\, 1-14
+UID:14be992d-8c1a-4294-a009-6517b03a39ef@14be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Lecture biblique du jour : Is 11\, 1-10
+UID:0b813142-2d59-4719-b5a4-f0c31314ddf1@0b81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 8\, 4-25
+UID:061eee34-e60f-4d96-a10d-7f0c0b51163d@061e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270929
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 7\, 1-17
+UID:d049224a-902a-4945-a677-c03254b7e2d7@d049.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Lecture biblique du jour : Isaïe 10 \, 5-21
+UID:f6c1c7bd-6e9c-4215-b1da-affee1c76574@f6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270516
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 8\, 5-27
+UID:c5449bfd-85a1-4c49-81de-40eec37cea99@c544.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270526
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 12\, 1-11
+UID:63de0b64-ef0c-4b30-8423-6c7b798f4f59@63de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270521
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 9\, 19-27
+UID:08c14f20-1b1e-43cb-a453-21ccdf882479@08c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+SUMMARY:Lecture biblique du jour : Lettre aux Galates(Ga) 5\, 25 à 6\, 18
+UID:e0bd31dc-33a7-4499-afbe-3bbbfe2e0662@e0bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+SUMMARY:Lecture biblique du jour : Néhémie(Ne) 5\, 1-19
+UID:97611b4a-1120-48b8-95da-8efc94e18f09@9761.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270620
+SUMMARY:Lecture biblique du jour : Josué (Jos) 24\, 1-7.13-28
+UID:e3ed9b94-92f7-417e-82f8-6a024afb148c@e3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+SUMMARY:Lecture biblique du jour : Exode(Ex) 12\, 21-36
+UID:a71b1a0c-03f5-4d5e-b45f-9bb8084b8377@a71b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+SUMMARY:Lecture biblique du jour : Premier livre des Martyrs d'Israël(1M) 4\, 36-59
+UID:b0d116bc-b3c6-4b59-9150-d043a78e2ea5@b0d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270118
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 5\, 1-11
+UID:821df418-fb39-4a3c-8497-e243391c215c@821d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270131
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 11\, 25\, 36
+UID:6af89d8d-34b1-4bdd-87a8-c7c389022aef@6af8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270504
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 2\, 12-17
+UID:cac076d2-a62c-4a22-97cb-38fcd38e075c@cac0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+SUMMARY:Lecture biblique du jour : Exode(Ex) 14\, 10-31
+UID:c9858269-85d3-4bab-8e47-a9045e450d61@c985.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+SUMMARY:Lecture biblique du jour : Livre de Baruch(Ba) 1\, 14 à 2\,5 \; 3\, 1-8
+UID:511b4e83-f731-4f3b-8bda-ab4cd5e1adb7@511b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261221
+SUMMARY:Lecture biblique du jour : Isaïe 42\, 10-25
+UID:4c4b1227-897b-459f-bb29-22b7164f8abc@4c4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270314
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 10\, 26-39
+UID:99a67b00-4d0b-4eda-9395-271ae92f3b16@99a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+SUMMARY:Lecture biblique du jour : Première lettre à Timothée (1Tm) 6\, 1-10
+UID:3c5482b8-7a64-4671-abc5-7a3df61ec097@3c54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271012
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 18\, 17-36
+UID:c73e8f39-b142-4913-a92e-4811d41586cb@c73e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 27\, 1-29
+UID:3f89a57c-3674-4cd7-8115-f48db8646d46@3f89.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 38\, 24 à 39\, 11
+UID:d0afed34-be2a-4749-b271-231eaa5c219b@d0af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260222
+SUMMARY:Lecture biblique du jour : Exode(Ex) 5\, 1 à 6\, 1
+UID:1e6fa117-8231-4cf3-80a3-bfa1eda68549@1e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 29\, 1-10 \; 30\, 1.9-23
+UID:7f1285c9-fea0-4f24-bf07-2936e4154eec@7f12.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 12\, 1-9
+UID:cab5d102-9e20-40da-9f77-80c99c28f293@cab5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 5\, 1-23
+UID:07fbca81-465b-450b-be42-90464212c029@07fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270805
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 12\, 20-33
+UID:160911ee-bc3d-48da-bc33-919640bc3864@1609.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 4\, 1-21
+UID:2fec78a4-431b-4020-9ce0-a2445049b03e@2fec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251216
+SUMMARY:Lecture biblique du jour : Isaïe 30\, 27-33 \; 31\, 4-9
+UID:537f4ee4-1214-4383-9337-74687b7cd736@537f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270404
+SUMMARY:Lecture biblique du jour : Lettre aux Colossiens(Col) 3\, 1-17
+UID:458a032b-ae7d-4dbd-9875-2201be2278b4@458a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270808
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 19\, 1-9.11-21
+UID:cc697951-f6b8-4a60-8e20-f486f38a8884@cc69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270425
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 18\, 21 à 19\, 10
+UID:608c1d26-6bb9-4642-b7a3-bde9237fe155@608c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Lecture biblique du jour : Premier livre des Martyrs d'Israël(1M) 1\, 41-61
+UID:590c48fc-805a-499b-bf37-175c53cdb770@590c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270108
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 65\, 13-25
+UID:a8ce11e5-b684-4fea-b244-33f5cba02f4b@a8ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251205
+SUMMARY:Lecture biblique du jour : Isaïe 19\, 16-25
+UID:3c355a58-d400-46de-8899-7e033d4fc5a1@3c35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270412
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 7\, 1-17
+UID:2508f86d-aec6-4288-bb52-da667b87b55c@2508.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271017
+SUMMARY:Lecture biblique du jour : Livre de Sophonie(So) 3\, 8-20
+UID:28024e90-429e-46da-a7d0-6133a66efffd@2802.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261217
+SUMMARY:Lecture biblique du jour : Isaïe 40 \, 1-11
+UID:1cf5e2b2-3d75-4a2d-bcdf-14bf9c24985d@1cf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+SUMMARY:Lecture biblique du jour : Lettre aux Philippiens(Ph) 2\, 12-30
+UID:3989875f-7bd3-4439-8b35-d5c11dc2308b@3989.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270519
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 8\, 1-13
+UID:4740b8a5-d035-4628-8f61-096d31faaf9b@4740.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270820
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 11\, 1 à 12\, 1
+UID:d315fe5e-1c90-4124-baf7-83ae9b5317b2@d315.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271119
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 13\, 1-16
+UID:fc344f50-01b3-4986-b604-7d5f770b0146@fc34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260916
+SUMMARY:Lecture biblique du jour : Seconde lettre de S. Pierre(2P) 2\, 9-22
+UID:d6f4fd49-8d5d-458f-8950-627ce83d51da@d6f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270122
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 7\, 1-13
+UID:9acdd7e6-ee3c-409e-b6e2-32c1e2bb3d3b@9acd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+SUMMARY:Lecture biblique du jour : Isaïe 41 \, 21-29
+UID:94cdcfae-f512-45d6-bc53-9dbdf0351c3a@94cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271020
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 3\, 1-5.19 à 4\, 4
+UID:fc65c8e6-ff4b-4959-9b8e-68a33a5b8786@fc65.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270817
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 6\, 8-23
+UID:ef4d0e70-33ca-4c33-9ad3-f3af3f68bf49@ef4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+SUMMARY:Lecture biblique du jour : Livre des proverbes (Pr) 1\, 1-7.20-33
+UID:3821dbc7-4d89-4686-9457-85d851dfbac6@3821.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 42\, 15-25 \; 43\, 27-33
+UID:13fe933a-c016-42bf-af2e-13a788b96cfb@13fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270821
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 13\, 10-25
+UID:09661056-cf1f-4447-b236-79bb7c592561@0966.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+SUMMARY:Lecture biblique du jour : Première lettre à Timothée (1Tm) 4\, 1 à 5\, 2
+UID:747ff928-74dc-4c34-9856-3e95966dfd87@747f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+SUMMARY:Lecture biblique du jour : Lettre aux Colossiens(Col) 3\, 1-17
+UID:e8ded8bb-7a51-4da7-b069-c746aa338b24@e8de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271008
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 20\, 1-6
+UID:e0e71da0-3201-4374-a225-a96d2fd0bb0d@e0e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Lecture biblique du jour : Second livre des Martyrs d'Israël(2M) 12\, 32-45
+UID:26109f24-e6fd-45b0-88c1-2138657034ac@2610.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261223
+SUMMARY:Lecture biblique du jour : Isaïe 43\, 19-28
+UID:961f4938-e6c7-4653-b970-7cbdc2b2a0bb@961f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270730
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 3\, 5-28
+UID:5a0efb7b-7b3b-4166-a71b-dd6a042a7637@5a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+SUMMARY:Lecture biblique du jour : Seconde lettre de S. Pierre(2P) 1\, 1-11
+UID:e1fd1a0b-d592-4064-ba66-ecdd6524f885@e1fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+SUMMARY:Lecture biblique du jour : Baruch(Ba) 4\, 5-29
+UID:b36e82a4-6689-4ccd-8175-38d63fbf9316@b36e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+SUMMARY:Lecture biblique du jour : Exode(Ex) 10\, 21 à 11\,10
+UID:7ea7a925-2634-4bf5-a978-32b4f9bb6cb3@7ea7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 1\, 1-26
+UID:1e5dafb8-1d67-4b21-8651-745acddd013b@1e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270205
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 15\, 14-33
+UID:e8375ccd-79cf-4b7f-89cc-651ee1eebc8a@e837.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270212
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 4\, 1-8.32-40
+UID:a35a3399-8353-402d-99b2-a8299c893759@a35a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270723
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 11\, 1-17.26-27
+UID:b7178292-f806-4944-ac30-1ef2bde582d7@b717.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270916
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 2\, 4-24
+UID:b35c78f1-75f6-4ef4-be57-77a8010d2e74@b35c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+SUMMARY:Lecture biblique du jour : Lettre aux Philippiens(Ph) 1\, 1-11
+UID:e0b73f54-94d4-4560-858f-d5c7cb17a612@e0b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 13\, 1-25
+UID:03848cad-f064-4a2e-ab45-357b63838468@0384.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270829
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 4\, 17-24
+UID:ec2171e9-ef2c-42e5-a072-63444e4ae742@ec21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 26\, 1-19
+UID:a13133a5-2ced-44d8-bc33-81cc6a39fe11@a131.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+SUMMARY:Lecture biblique du jour : Livre de Judith(Jdt) 13\, 4 à 14\, 3
+UID:fb4b6f40-d179-480a-8215-9e5f23dc41fd@fb4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 22\, 22 à 23\, 11
+UID:a54fb2fd-0c84-4b71-81cb-a587f7423c19@a54f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 10\, 1 à 11\,4
+UID:ab78c1cc-095d-4a46-869f-595a179cb805@ab78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271013
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 18\, 37 à 19\, 19.35-37
+UID:ea3dcfff-0bba-4d52-9b39-d8c2337d42c8@ea3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 45\, 1-15.21-28 \; 46\, 1-7
+UID:ba50cdf7-4a19-4731-80c4-6c3ad6f36e8a@ba50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270227
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 32\, 48-52 \; 34\, 1-12
+UID:0cc122a1-c73d-4ac9-88dd-150052011923@0cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 7\, 44 à 8\, 3
+UID:b925fc49-df4c-47a8-b500-e49fd2ea41ae@b925.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270322
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 52\, 13 à 53\, 12
+UID:e2625727-89b5-4ffa-9ed2-e3325404294a@e262.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 49\, 1-28.33
+UID:8c262cdc-e8ff-4406-9e87-160bc1d51e49@8c26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+SUMMARY:Lecture biblique du jour : Exode(Ex) 6\, 29 à 7\, 25
+UID:345143b8-ddee-4017-b688-ae5964ce0bb2@3451.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270711
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 17\, 1-10.23-26.40-51
+UID:065368cb-1451-4694-a51b-bb4d7c3eafc4@0653.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270801
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 8\, 22-34.54-61
+UID:f2f58722-d606-4143-ac34-68280dc3c252@f2f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270423
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 17\, 1-18
+UID:de44eb24-6f48-45d3-8060-ca7c362b8b91@de44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 4\, 5-18
+UID:792d4cd7-399c-40a1-ba4b-125f0a1513a8@792d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270611
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 4\, 13 à 5\, 11
+UID:83718235-9b39-4bc0-bda5-919e4805e38a@8371.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270507
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 3\, 1-10
+UID:7d3ce4ab-5bab-411a-92bf-8cd69c858eb1@7d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271117
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 10\, 18-22 \; 11\, 14-25
+UID:ff4c7cd3-f354-4f84-8355-82397f3ad3dd@ff4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+SUMMARY:Lecture biblique du jour : Ruth 2\, 14-23
+UID:4e51a596-070c-4727-a173-b3231a06330c@4e51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270109
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 66\, 5-14.18-23
+UID:99c4fa8c-dd71-460b-be5a-25d4b9cf85a8@99c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Lecture biblique du jour : Qoheleth(Qo) 8\, 5 à 9\, 10
+UID:c2002d56-47ac-46dc-8e19-ce97aecaeff6@c200.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+SUMMARY:Lecture biblique du jour : Livre de Daniel(Dn) 2\, 1.25-47
+UID:42b00212-7995-42f5-9bab-b9dfb89baec3@42b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Lecture biblique du jour : Michée 4\, 1-7
+UID:be5d1c22-e03a-4459-81a0-a21fb55039d2@be5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270117
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 4\, 1-25
+UID:8b14c321-965c-4362-9c28-80641d6d532b@8b14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270618
+SUMMARY:Lecture biblique du jour : Josué (Jos) 7\, 4-26
+UID:2139291d-4c22-4c21-b6f5-08405531e217@2139.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271027
+SUMMARY:Lecture biblique du jour : Livre d'Habacuc(Ha) 1\, 1 à 2\, 4
+UID:5b6ddd9f-11e8-44b2-ac05-f9c63302f1b2@5b6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260202
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 27\, 30-45
+UID:3f664ff5-bec3-450d-b927-9a29e4749588@3f66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251218
+SUMMARY:Lecture biblique du jour : Isaïe 46\, 1-13
+UID:99434de8-9f8d-4bb2-9461-c3cfce39cf9a@9943.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270628
+SUMMARY:Lecture biblique du jour : Livre des Juges (Jg) 16\, 4-6.16-31
+UID:4b5a8949-4617-47a0-ba4c-3acbdd3c6c15@4b5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270919
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 8\, 1-13
+UID:7cdb719e-edf6-4ea1-ac39-f64d3931f198@7cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271024
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 22\, 8-23\, 4.21-23
+UID:5e4d2ebe-034a-49ce-9fdd-a5ba0adaa240@5e4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271121
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 16\, 3-19.35-43.59-63
+UID:e3feb519-240c-4c27-a214-b0951ac4b200@e3fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270216
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 9\, 7-21.25-29
+UID:ed72142e-00b4-4911-bf39-4acbd8db0714@ed72.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270604
+SUMMARY:Lecture biblique du jour : Lettre de S. Jacques (Jc) 1\, 1-18
+UID:0568bd26-2caa-4031-9cd3-2b86c6104662@0568.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270405
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 1\, 1-20
+UID:d540938f-8bac-4e8e-a8fc-162ec787c43d@d540.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 1\, 1-20
+UID:4f973235-9129-40a4-aa46-abd93c41ce22@4f97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270619
+SUMMARY:Lecture biblique du jour : Josué (Jos) 10\, 1-14\; 11\, 15-17
+UID:7f850876-0c77-4b21-a929-a620a71e6018@7f85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270806
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 16\, 29 à 17\, 16
+UID:6183e121-87da-4290-a56b-8160773f18f6@6183.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Lecture biblique du jour : Premier livre des Martyrs d'Israël(1M) 3\, 1-26
+UID:cdb52ac8-80a1-47fa-895d-91ed1a568dd4@cdb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 4\, 1-24
+UID:d0db7292-c22d-4689-8d69-95c2f95591db@d0db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270728
+SUMMARY:Lecture biblique du jour : Premier livre des Chroniques (1 Ch) 33\, 5-19
+UID:4333dc64-c737-4327-bcf5-1e7064073763@4333.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+SUMMARY:Lecture biblique du jour : Livre de Judith(Jdt) 12\, 1 à 13\, 3
+UID:b97692cd-0787-4ba0-bcd4-f3b331ea6437@b976.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 6\, 8-15 \; 7\, 1-2.44-60
+UID:54ba31e5-7def-4361-8cd6-25889851be0e@54ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270905
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 14\, 1-27
+UID:6f97a97f-d291-421a-8cd4-2ce17097e7f2@6f97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270509
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 3\, 18-24
+UID:51d06cfd-12b8-428d-83f7-560f59661e14@51d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+SUMMARY:Lecture biblique du jour : Jonas(Jon) 1\, 1 à 2\, 1.11
+UID:1bb5131e-6e9e-44e3-916f-34dd59380281@1bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 6\, 5-22\; 7\, 17-24
+UID:782546f7-3c84-4a58-ac44-7104d27f72cf@7825.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271010
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 22\, 1-14
+UID:034c23ea-a4ba-4004-ac73-ead1614f44c4@034c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+SUMMARY:Lecture biblique du jour : Lettre à Tite (Tt) 1\, 1-16
+UID:062909d6-28d4-44b4-a8c0-469ffb4a02bb@0629.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270206
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 16\, 1-27
+UID:93efca42-7836-44a5-923f-2f12b661d790@93ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 13\, 13 à 14\, 6
+UID:ca29ee12-06e8-4918-a860-e3d26e5fe6fd@ca29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270302
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 3\, 1-19
+UID:3c41e9b6-e504-4fab-aecc-254767f6f25f@3c41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 5\, 17-42
+UID:229b362a-0998-45ac-b8a4-ff91b64bdfdd@229b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 8\, 1-17.20-23
+UID:77d3c86a-0052-4c9b-837a-9e5aea57c881@77d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270807
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 18\, 16-40
+UID:8cf21c4c-9f6d-41b6-8dc0-8e98c1f6a78f@8cf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 13\, 44 à 14\, 7
+UID:232a0a04-596d-412d-8a7a-0a5a7c01f057@232a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 41\, 1-17.25-43
+UID:267b2597-4b56-4352-916d-ab50bcc94bc0@267b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261226
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 6\, 8 à 7\,20.44-59
+UID:28f01ee4-62ce-4dc7-add1-04831a8766ff@28f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270411
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 6\, 1-17
+UID:2ca61b0e-09f6-42c0-9829-0f8e752074f9@2ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 13\, 1-10 \; 14\, 15-21 \; 15\, 1-6
+UID:f0fcc08e-f72b-40bf-9ce0-b1a731117865@f0fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 5\, 1 à 6\, 4
+UID:f1e4151c-99c3-480a-959f-7e49f0e05a6f@f1e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260602
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 9\, 1-15
+UID:954abf73-6587-4596-b37f-70db5da1b08e@954a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 18\, 1-15 \; 19\, 4-9
+UID:207acc94-8c96-41ac-9f3c-b5865aa59566@207a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270910
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 5\, 1-17
+UID:8a5ab62f-0986-4f14-9617-90c31bca41e9@8a5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+SUMMARY:Lecture biblique du jour : Lettre aux Philippiens(Ph) 4\, 10-23
+UID:575ac79e-bdf7-4c52-ba40-12f3db1f3f52@575a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+SUMMARY:Lecture biblique du jour : Exode(Ex) 6\, 2-13
+UID:d868f4cc-a25a-4e6c-8f1c-848ad4fcdeff@d868.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270915
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 1\, 1-9 \; 3\, 1-5
+UID:4f10f6d3-d3c2-4684-912c-cb6ae09b6323@4f10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 19\, 1-29
+UID:de6381c2-6495-45b3-b403-5d2a75a21399@de63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270107
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 63\, 19 à 64\, 11
+UID:9a315e0a-ff57-4412-ae4e-896233bf4ba9@9a31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 5\, 1-27
+UID:d3b9fa58-8a8f-4797-b7e1-96aa804d51d1@d3b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270427
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 20\, 1-15
+UID:8e6b2d1b-e89e-4ae2-9464-3a2575c9e2fb@8e6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251209
+SUMMARY:Lecture biblique du jour : Isaïe 24\, 18 à 25\, 5
+UID:1e9c1a26-a54a-4b10-9f6a-d8e2c17121e5@1e9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271108
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 37\, 21 \; 38\, 14-28
+UID:659bb3ae-529c-4229-a1f2-f8e0cf46098d@659b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271109
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 32\, 6-10.16.24-40
+UID:8e2e991c-1715-414b-818f-c49dfed276d9@8e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270925
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 15\, 1-5.32 à 16\,8
+UID:2f07ec6c-0f83-4c34-880f-ba0e2485b89f@2f07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Lecture biblique du jour : Isaïe 8 \, 1-18
+UID:1f96e660-e954-4db7-af6f-114a520ff917@1f96.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 2\, 4-25
+UID:b8d7bcc4-4c24-4975-a322-29a3b50be19d@b8d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270228
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 1\, 1 à 2\, 4
+UID:0d4be73f-dd93-4c64-be1d-afdfde4a0192@0d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270615
+SUMMARY:Lecture biblique du jour : Josué (Jos) 2\, 1-24
+UID:f92409cc-c35c-4c6c-89cb-126a34780539@f924.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271019
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 2\, 1-13.20-25
+UID:c9bc8a4c-b079-41ab-a555-226bb424e0d4@c9bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+SUMMARY:Lecture biblique du jour : Joël(Jl) 1\, 13 à 2\, 11
+UID:035ceca8-aa1e-40ba-8f17-4c68868b4076@035c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270518
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 7\, 25-40
+UID:bafcb49f-bc6a-4023-80ac-641f05f70a7e@bafc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 16\, 24 à 17\, 14
+UID:d969b9f3-a1d6-4319-99e1-4f4214a3decb@d969.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 8\, 1-24
+UID:a93b5d1e-4a39-46b4-82ed-508d487b69ec@a93b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+SUMMARY:Lecture biblique du jour : Première lettre à Timothée (1Tm) 2\, 1-15
+UID:fbdd6ba6-8d62-41b8-89b1-c41ef7e1fab9@fbdd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271114
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 2\, 8 à 3\, 11.16-21
+UID:48945d5b-6f9d-4097-8d07-6fd86ef0b7de@4894.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270712
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 17\, 57 à 18\, 9.20-30
+UID:3b269a1d-a3e5-4247-8ef4-d1c25a4b95e9@3b26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261207
+SUMMARY:Lecture biblique du jour : Isaïe  3 4 \, 1-17
+UID:4fe051f9-4627-479b-ac41-3bc6b4aa354e@4fe0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+SUMMARY:Lecture biblique du jour : Seconde lettre à Timothée (2Tm) 2\, 1-21
+UID:45dc1601-ba1d-44f4-b6b9-9b2c84e7deb0@45dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+SUMMARY:Lecture biblique du jour : 1re lettre aux Thessaloniciens (1Th) 4\, 1-18
+UID:e4b56df1-9457-42d6-a2c3-df06e34f8038@e4b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260421
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 9\, 1-22
+UID:58208c03-2eee-4dc4-8925-b703f80687bc@5820.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 54\, 1-17
+UID:9a89c1a7-275c-4760-9988-40c689fe8f75@9a89.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270110
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 42\, 1-8\; 49\, 1-9
+UID:47f00ee6-dcc8-4fda-9a92-0d19ad12eac8@47f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270726
+SUMMARY:Lecture biblique du jour : Second livre de Samuel (2S) 18\, 6-17.24 à 19\, 4
+UID:9782f31e-5a41-4c1b-8b3f-83b43dee9066@9782.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270804
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 12\, 1-19
+UID:25950948-98bd-4cab-adcb-c7eece920383@2595.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270917
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 4\, 1-10 \; 5\, 1-7
+UID:a5f5ec9d-dba4-4287-a034-d99376a86a5f@a5f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270129
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 11\, 1-12
+UID:38b84b07-c2ca-4a0a-8228-9288ad388c4a@38b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+SUMMARY:Lecture biblique du jour : Esdras(Esd) 6\, 1-5.14-22
+UID:e6a78e17-7e41-4d9f-90ee-4b20fd7ad41d@e6a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 31\, 1-23.35-37
+UID:9e69afb3-4b2a-4e97-8ee0-11793854ff88@9e69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 2 \, 9-17
+UID:ba49a248-2cfd-494b-8f14-4fc1ce1c3b36@ba49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Lecture biblique du jour : Premier livre des Martyrs d'Israël(1M) 2\, 15-28.42-50.65-70
+UID:4318d519-4749-47a5-8aab-eb16996c262d@4318.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261019
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 11\,12-28
+UID:15a41eb2-2185-47a4-ac00-e6ffb97eb622@15a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270123
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 7\, 14-25
+UID:2b1ed9de-c61e-4827-92f4-014efefbb2fe@2b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270310
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 9\, 1-10
+UID:2f2d01a6-318c-4e00-a810-ea0a67eeee71@2f2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270417
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 11\, 1-19
+UID:e4cb4e58-995f-4593-bbae-493249fed2d4@e4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260824
+SUMMARY:Lecture biblique du jour : Qoheleth(Qo) 2\, 1-26
+UID:4327995e-84a9-463c-a54f-2354d9475135@4327.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261227
+SUMMARY:Lecture biblique du jour : 1re lettre de Jean(1Jn) 1\, 1 à 2\, 3
+UID:1e7f42b3-4411-409a-9060-482b3ec59f7a@1e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+SUMMARY:Lecture biblique du jour : Is 11\, 1-10
+UID:ecffe950-70e7-44c9-a747-bff616a2aa0d@ecff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271111
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 31\, 15-22.27-34
+UID:51bcd58c-e249-42fe-b90e-bb9b080845a3@51bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Lecture biblique du jour : Second livre des Martyrs d'Israël(2M) 7\, 1-19
+UID:73ef8169-26a0-4e0a-a5d5-79d71faa1de2@73ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271028
+SUMMARY:Lecture biblique du jour : Livre d'Habacuc(Ha) 2\, 5-20
+UID:13aab955-9e32-44d7-842d-84fe459891dc@13aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251229
+SUMMARY:Lecture biblique du jour : Cantique des cantiques(Ct) 1\, 1-8
+UID:23e94110-9e82-4a1f-952a-de72b2690bbd@23e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270407
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 2\, 12-29
+UID:3168f403-7410-4633-be80-497287d6eb81@3168.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 5\, 1-21
+UID:7e1e03b0-3225-4986-bc59-a49479f3e45d@7e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270823
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 1\, 15-23
+UID:da67f0ff-b929-46f7-9568-def45f1e6f5a@da67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270522
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 10\, 1-13
+UID:1544780c-ab7f-43c5-85f3-f87285c5a1f9@1544.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271009
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 20\, 1-19
+UID:7382df6d-3b7d-4566-bd42-79eff0216927@7382.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270814
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 4\, 8-37
+UID:7d1daf92-05f2-4bf1-8297-f74c1b3073a6@7d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270422
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 15\, 5 à 16\, 21
+UID:223865fa-d54a-4908-b49a-de0ef1658b67@2238.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260811
+SUMMARY:Lecture biblique du jour : Joël(Jl) 2\, 12-27
+UID:74ecbc21-d43b-4cec-91f9-8ce798c36441@74ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+SUMMARY:Lecture biblique du jour : Néhémie(Ne) 9\, 22-37
+UID:3d1b83d5-d59f-47da-8bd5-beac30e41f06@3d1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+SUMMARY:Lecture biblique du jour : Livre de Judith(Jdt) 2\, 1-12 \; 4\, 9-15
+UID:6a956dab-0305-4315-a32a-dac58155d763@6a95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Lecture biblique du jour : Qoheleth(Qo) 11\, 7 à 12\, 14
+UID:0794d9a7-9008-4e67-bff7-5f2ea9e0020c@0794.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 3\, 1-24
+UID:fe29438b-8105-4058-848e-2c9ebf286753@fe29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+SUMMARY:Lecture biblique du jour : Isaïe 14\, 1-21
+UID:b04bb311-a3d1-4a06-a509-118db8be2049@b04b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261006
+SUMMARY:Lecture biblique du jour : Livre de Judith(Jdt) 6\, 1 à 7\, 5
+UID:dc3985ba-725d-4014-a923-4783a6a1ae77@dc39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 11\, 1-20
+UID:2c65f45a-a8fb-4cab-84b7-3c4263cac041@2c65.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270508
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 3\, 11-17
+UID:3e1d85d0-f8a8-4cd8-a276-f3c63a56db49@3e1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+SUMMARY:Lecture biblique du jour : Nombres(Nb) 12\, 16 à 13\, 3.17-33
+UID:988c8c95-a95a-4561-8572-3b9ca32ec2c8@988c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270510
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 4\, 1-10
+UID:c3be79b1-b002-47a1-b230-8b21182f2b48@c3be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+SUMMARY:Lecture biblique du jour : Livre des proverbes (Pr) 9\, 1-18
+UID:08b35122-b544-4162-a5f6-6427104ea9dc@08b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+SUMMARY:Lecture biblique du jour : Livre de Tobie(Tb) 10\, 7 à 11\, 14
+UID:a0d0242e-4179-48f1-9089-13862500fcdf@a0d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270818
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 6\, 24-25.32 à 7\, 16
+UID:65221d77-f2f5-4c9d-965e-5e58ec08d67b@6522.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 51\, 1-12
+UID:0af1c667-1042-46ac-9503-9d1236bd7204@0af1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 24\, 1-27
+UID:59c6e216-b516-4678-840e-c8ce04b6d1b0@59c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270217
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 10\, 12 à 11\, 7.26-28
+UID:458954f5-4cfb-4b2c-a5f1-bd111da0acca@4589.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270415
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 9\, 13-21
+UID:c1dc345e-d054-4bdd-9af8-b6179aa312ec@c1dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270707
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 11\, 1-15
+UID:5556c92a-b830-4f9a-a147-050be6c6397b@5556.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+SUMMARY:Lecture biblique du jour : Malachie(Ml) 1\, 1-14\; 2\, 13-16
+UID:9a01a017-fd90-428d-8027-f59c8514e98c@9a01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270911
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 5\, 18 à 6\, 14
+UID:e829f632-3329-4c67-837d-fb1c47da0b02@e829.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 1\, 1-15
+UID:e765b344-2bdc-42c7-b332-8603e58966e1@e765.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270918
+SUMMARY:Lecture biblique du jour : Livre d'Osée(Os) 5\, 15 à 7\, 2
+UID:8308c67b-7e90-4f88-8c97-e35c4a656bf6@8308.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 28\, 1-14
+UID:0b5b209c-bbae-4e09-8cf8-2796ed31a8f3@0b5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 15\, 1-21
+UID:09e040e1-1ed2-42ef-8c95-384e5d886995@09e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260713
+SUMMARY:Lecture biblique du jour : Livre des proverbes (Pr) 3\, 1-20
+UID:535aba32-0b39-41f8-b833-0fd230f8e216@535a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271126
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 28\, 1-19
+UID:7d4133a4-195b-4675-8ef6-994cd967bb68@7d41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260427
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 12\, 24 à 13\, 14
+UID:c5b9aed7-2e66-4c73-a9e8-c3d757546bf6@c5b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+SUMMARY:Lecture biblique du jour : Seconde lettre à Timothée (2Tm) 2\, 22 à 3\, 17
+UID:c5536d45-20e2-4288-aa38-83334bfa55e9@c553.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270419
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 13\, 1-18
+UID:8c97644a-64a7-41e3-b960-8772036895e3@8c97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 55\, 1-13
+UID:585fc147-e82a-4c21-92e4-e6ad421ca34e@585f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271115
+SUMMARY:Lecture biblique du jour : Livre d'Ézéchiel(Ez) 5\, 1-17
+UID:0839a2c6-c409-48d3-a3c5-ae102266bcb4@0839.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270613
+SUMMARY:Lecture biblique du jour : Siracide (Si) 46\, 1-10
+UID:832dbdf2-c881-4916-8f16-34f49607681e@832d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251222
+SUMMARY:Lecture biblique du jour : Isaïe 49\, 14 à 50\, 1
+UID:af7e48e9-02cb-46e0-8661-918e64c11dcb@af7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270511
+SUMMARY:Lecture biblique du jour : Première lettre de S. Jean(1Jn) 4\, 11-21
+UID:2120cd63-7b53-499a-8d50-83afe1ebb813@2120.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270327
+SUMMARY:Lecture biblique du jour : Livre des Lamentations(Lm) 5\, 1-22
+UID:89985912-8db8-4885-85e2-8024228c8f99@8998.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270602
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 15\, 35-58
+UID:05336d0a-02be-4f0c-9ed9-69cd763d9907@0533.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Lecture biblique du jour : Lettre aux Colossiens(Col) 2 \, 4-15
+UID:241aea6a-ed7e-4fff-9e8f-d3af4771f2bd@241a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+SUMMARY:Lecture biblique du jour : Exode(Ex) 20\, 1-17
+UID:9eab265d-8c23-4e8d-b67b-8f3fe4fda9cf@9eab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270816
+SUMMARY:Lecture biblique du jour : Second livre des Rois (2R) 5\, 1-19
+UID:7317135e-625f-4edc-a5d3-53f56584f4c0@7317.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270717
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 28\, 3-25
+UID:5917d600-5f88-4999-9898-afed22b56a5e@5917.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260714
+SUMMARY:Lecture biblique du jour : Livre des proverbes (Pr) 8\, 1-5.12-36
+UID:4541643a-045e-47ae-98e4-73597592d5ef@4541.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251214
+SUMMARY:Lecture biblique du jour : Isaïe 29\, 13-24
+UID:36a27f3e-f76c-4650-838f-eb6de426a03b@36a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+SUMMARY:Lecture biblique du jour : 1re lettre aux Thessaloniciens (1Th) 2\, 13 à 3\, 13
+UID:75ef67b8-b4cf-4465-a9bf-06536220e471@75ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260207
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 37\, 2-4.12-36
+UID:7f4f0e2e-0a07-4dc6-ba3a-5db12befe9ce@7f4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270225
+SUMMARY:Lecture biblique du jour : Deutéronome(Dt) 30\, 1-20
+UID:be41925a-980c-45b5-a2c9-352898fb45ab@be41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+SUMMARY:Lecture biblique du jour : Exode(Ex) 35\, 30 à 36\, 1 \; 17\, 1-9
+UID:ef9edc2a-6edd-47a8-9899-a408e646a748@ef9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Lecture biblique du jour : Livre de la Sagesse(Sg) 4\, 1-20
+UID:9c946bc6-3605-4f7e-82e3-d2fc05aad7af@9c94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260520
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 27\, 1-20
+UID:b1dc40b8-973a-4ceb-9cbf-917bfc7b925e@b1dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+SUMMARY:Lecture biblique du jour : Lettre aux Galates(Ga) 3\, 15 à 4\, 7
+UID:e282db1b-bd6e-4d10-96b4-f0e45b40b5ee@e282.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+SUMMARY:Lecture biblique du jour : 2e lettre aux Corinthiens(2Co) 11\, 30 à 12\, 13
+UID:4fa0de27-4cbd-447e-95ff-0dfc412e226d@4fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270909
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 4\, 1-13
+UID:bffe1ab7-5de4-4cd7-a03b-03a9a2a059fd@bffe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+SUMMARY:Lecture biblique du jour : Exode(Ex) 17\, 1-16
+UID:d6091e4a-d32f-4bb9-9b51-fd41c782fe7c@d609.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270424
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 18\, 1-20
+UID:43c704c4-3164-4f15-9dde-4c90aff2d8b2@43c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Lecture biblique du jour : Second livre des Martyrs d'Israël(2M) 6\, 18-31
+UID:5ff532d9-290f-46bd-9fcf-a330679f7a94@5ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270130
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 11\, 13-24
+UID:be97beca-4f66-440a-85f7-630c57c2ff8f@be97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271104
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 27\, 1-15
+UID:60a7d6fe-ecc6-49fd-997d-3341d46fb971@60a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270530
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 14\, 20-40 
+UID:64b363f8-50f7-4b2e-999b-a13617e6823d@64b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271014
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 37\, 21-35
+UID:f367a81b-deff-4da3-9a7f-8b5714d31635@f367.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+SUMMARY:Lecture biblique du jour : Livre de Jérémie(Jr) 11\, 18-20 \; 12\, 1-13
+UID:7b6ddf43-c5a1-4409-bb10-43de09aac106@7b6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270810
+SUMMARY:Lecture biblique du jour : Premier livre des Rois (1R) 22\, 1-9.15-23
+UID:ecb6a113-56e5-444e-a365-3b0cf202b0ad@ecb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270120
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 6\, 1-11
+UID:3d317fee-31ce-4cbb-9391-0cfd7892f884@3d31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 14\, 1-24
+UID:bf01473e-3293-44cb-abcc-6b760ee75f7c@bf01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 3\, 1 à 4\, 14
+UID:ef4451f2-3ece-490a-86c1-e7baca3b9d28@ef44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271107
+SUMMARY:Lecture biblique du jour : Second livre des Rois(2R) 24\, 20 à 24\, 13.18-21
+UID:8c2d2a82-5d4b-4d98-b6b1-828f3023b375@8c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 44\, 1-34
+UID:f403ef68-b91a-4b69-9ed4-8ddfc0de2f9f@f403.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+SUMMARY:Lecture biblique du jour : Lettre à Tite (Tt) 3\, 5-15
+UID:ffaa70bf-8e70-48ee-9b57-0ec1335f00ff@ffaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 15\, 5-35
+UID:3b6af5a9-a7cd-4f14-93f0-3f2ff0ac4dbf@3b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251202
+SUMMARY:Lecture biblique du jour : Isaïe 2\, 6-22\; 4\, 2-6
+UID:657f7a29-d0a4-4929-a0df-cc0702f14da8@657f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+SUMMARY:Lecture biblique du jour : Néhémie(Ne) 2\, 9-20
+UID:47750e0a-c604-4d07-8b40-ece6d8fe85fb@4775.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Lecture biblique du jour : Premier livre des Martyrs d'Israël(1M) 1\, 1-25
+UID:750fea03-db07-4635-a041-dd6f15f62a1b@750f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+SUMMARY:Lecture biblique du jour : Isaïe 30\, 18-26
+UID:482ee1cb-a0f8-4c18-8cdb-4221055a3a97@482e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261229
+SUMMARY:Lecture biblique du jour : Lettre aux Colossiens(Col) 1 \, 1-14
+UID:f97b7f3e-9b89-4768-a06f-07926b875d5c@f97b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270517
+SUMMARY:Lecture biblique du jour : 1re lettre aux Corinthiens (1Co) 7\, 1-24
+UID:5fce0b3b-2ea9-4910-86a0-8a99d31bbcfc@5fce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 32\, 4-31
+UID:6baedb08-5cbf-4383-ba03-30a751baff25@6bae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 20\, 17-38
+UID:dc632bc8-75ca-444e-ae2e-b4150ca66f44@dc63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 1\, 1 à 2\, 4
+UID:275efbe6-fc2e-4d5a-adc4-816ffae98382@275e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+SUMMARY:Lecture biblique du jour : Livre du Siracide(Si) 29\, 1-13\; 31\, 1-4
+UID:4103a4af-b3ef-4794-904b-2d8c3d22a147@4103.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270326
+SUMMARY:Lecture biblique du jour : Livre des Lamentations(Lm) 3\, 1-33
+UID:8d7af33f-b64e-44c1-a883-313777152811@8d7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+SUMMARY:Lecture biblique du jour : Première lettre à Timothée (1Tm) 5\, 3-25
+UID:0773e339-244a-4ac2-a6a3-75b5fba2dd56@0773.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+SUMMARY:Lecture biblique du jour : Seconde lettre à Timothée (2Tm) 1\, 1-18
+UID:cc8084ae-180c-42bf-8214-14b9e0b610b0@cc80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270307
+SUMMARY:Lecture biblique du jour : Lettre aux Hébreux(He) 7\, 1-11
+UID:67226068-ede8-4d05-b0a3-572e4f4492e6@6722.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270710
+SUMMARY:Lecture biblique du jour : Premier livre de Samuel (1S) 16\, 1-13
+UID:86be78e5-bb30-40b9-b1d9-0e45c51c09ce@86be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270913
+SUMMARY:Lecture biblique du jour : Livre d'Amos(Am) 8\, 1-14
+UID:d1b8da2f-c76e-417a-8808-cebcb989cc6d@d1b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+SUMMARY:Lecture biblique du jour : Lettre aux Philippiens(Ph) 1\, 12-26
+UID:5bde9493-555c-4933-9d0f-ea549e272582@5bde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+SUMMARY:Lecture biblique du jour : Zacharie(Za) 2\, 5-17
+UID:4bc8b061-55bc-49e7-b401-85efbf25c028@4bc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270402
+SUMMARY:Lecture biblique du jour : Première lettre de Pierre(1P) 3\, 18 à 4\, 11
+UID:9a11358a-ec4e-40b0-8360-bdffb4c127b0@9a11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270126
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 9\, 1-18
+UID:a1030dab-561f-4830-b3d1-ee5fcb578bf6@a103.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+SUMMARY:Lecture biblique du jour : Actes des Apôtres(Ac) 11\, 19-30
+UID:84834da6-529c-4e59-b711-c0afb208874c@8483.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270822
+SUMMARY:Lecture biblique du jour : Lettre aux Éphésiens (Ep) 1\, 1-14
+UID:1366297e-4fa9-45cc-a2bb-b109d0222af7@1366.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270926
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 6\, 1-13
+UID:8e357212-f5d5-45ae-8090-1b53ac658883@8e35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260608
+SUMMARY:Lecture biblique du jour : Lettre aux Galates(Ga) 1\, 13 à 2\, 10
+UID:37c4bf2c-f608-4ae3-968d-b6050eba7dd8@37c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270928
+SUMMARY:Lecture biblique du jour : Livre d'Isaïe(Is) 5\, 8-13.17-24
+UID:8d386a75-4e91-4580-a5a3-54916f97ff6c@8d38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251217
+SUMMARY:Lecture biblique du jour : Isaïe 45\, 1-13
+UID:e130772e-a978-47c9-9981-c047657a0284@e130.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+SUMMARY:Lecture biblique du jour : Lettre aux Romains(Rm) 8\, 5-27
+UID:3ecdb2d2-08c3-4170-88eb-b73575fe30b1@3ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270106
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 63\, 7-9
+UID:34c00558-97ea-41a7-bfe9-eacc9061813b@34c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+SUMMARY:Lecture biblique du jour : Isaïe(Is) 59\, 1-14
+UID:ba694854-1586-4161-8ace-21df9e8e6868@ba69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+SUMMARY:Lecture biblique du jour : Genèse(Gn) 24\, 33-41.49-67
+UID:47935204-b48d-4cc8-a57f-06c97d7dab08@4793.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270414
+SUMMARY:Lecture biblique du jour : Apocalypse(Ap) 9\, 1-12
+UID:a0c50d6a-b830-44bb-9d4b-2096b694c218@a0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+SUMMARY:Lecture biblique du jour : Livre de Job (Jb) 3\, 1-26
+UID:4e327b49-4c0b-4da0-905e-bd66d88ffa30@4e32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251219
+SUMMARY:Lecture biblique du jour : Isaïe 47\, 1-15
+UID:6cfa868a-d57a-4d85-a873-79fc1864160c@6cfa.org
+END:VEVENT
+END:VCALENDAR
